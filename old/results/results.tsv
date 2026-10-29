@@ -1,0 +1,31 @@
+generation	variant	commit	prediction	bet_amount	outcome	status	profit	roi	description	avg_fill	book_depth	spread	resolution_mid
+1	4	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Strictly requires multiple exchanges to show the same signal direction and magnitude before allowing a trade.	0.0000	0.00	0.0000	0.0000
+1	3	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Focuses on identifying extreme funding rates to bet against the trend (contrarian).	0.0000	0.00	0.0000	0.0000
+1	L0	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Initial Control Strategy	0.0000	0.00	0.0000	0.0000
+1	5	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Calculates the true cost of the trade by incorporating `slippage` and `spread` into the Expected Value calculation.	0.0000	0.00	0.0000	0.0000
+1	2	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Adjusts the importance of Order Book Imbalance (OBI) vs. Aggressive Flow (Delta) based on the detected volatility regime.	0.0000	0.00	0.0000	0.0000
+1	1	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Uses `sleep` to observe whether Polymarket odds are moving in the direction of the exchange signal before committing.	0.0000	0.00	0.0000	0.0000
+2	4	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Strictly requires multiple exchanges to show the same signal direction and magnitude before allowing a trade.	0.0000	0.00	0.0000	0.0000
+2	L0	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Initial Control Strategy	0.0000	0.00	0.0000	0.0000
+2	2	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Adjusts the importance of Order Book Imbalance (OBI) vs. Aggressive Flow (Delta) based on the detected volatility regime.	0.0000	0.00	0.0000	0.0000
+2	3	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Focuses on identifying extreme funding rates to bet against the trend (contrarian).	0.0000	0.00	0.0000	0.0000
+2	5	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Calculates the true cost of the trade by incorporating `slippage` and `spread` into the Expected Value calculation.	0.0000	0.00	0.0000	0.0000
+2	1	f7ce086	ABSTAIN	0.00	Up	abstain	0.00	0.0000	Uses `sleep` to observe whether Polymarket odds are moving in the direction of the exchange signal before committing.	0.0000	0.00	0.0000	0.0000
+3	1	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Uses `sleep` to observe whether Polymarket odds are moving in the direction of the exchange signal before committing.	0.0000	0.00	0.0000	0.0000
+3	3	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Focuses on identifying extreme funding rates to bet against the trend (contrarian).	0.0000	0.00	0.0000	0.0000
+3	4	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Strictly requires multiple exchanges to show the same signal direction and magnitude before allowing a trade.	0.0000	0.00	0.0000	0.0000
+3	5	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Calculates the true cost of the trade by incorporating `slippage` and `spread` into the Expected Value calculation.	0.0000	0.00	0.0000	0.0000
+3	L0	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Initial Control Strategy	0.0000	0.00	0.0000	0.0000
+3	2	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Adjusts the importance of Order Book Imbalance (OBI) vs. Aggressive Flow (Delta) based on the detected volatility regime.	0.0000	0.00	0.0000	0.0000
+4	4	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Strictly requires multiple exchanges to show the same signal direction and magnitude before allowing a trade.	0.0000	0.00	0.0000	0.0000
+4	5	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Calculates the true cost of the trade by incorporating `slippage` and `spread` into the Expected Value calculation.	0.0000	0.00	0.0000	0.0000
+4	3	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Focuses on identifying extreme funding rates to bet against the trend (contrarian).	0.0000	0.00	0.0000	0.0000
+4	2	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Adjusts the importance of Order Book Imbalance (OBI) vs. Aggressive Flow (Delta) based on the detected volatility regime.	0.0000	0.00	0.0000	0.0000
+4	1	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Uses `sleep` to observe whether Polymarket odds are moving in the direction of the exchange signal before committing.	0.0000	0.00	0.0000	0.0000
+4	L0	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Initial Control Strategy	0.0000	0.00	0.0000	0.0000
+5	3	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Focuses on identifying extreme funding rates to bet against the trend (contrarian).	0.0000	0.00	0.0000	0.0000
+5	L0	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Initial Control Strategy	0.0000	0.00	0.0000	0.0000
+5	5	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Calculates the true cost of the trade by incorporating `slippage` and `spread` into the Expected Value calculation.	0.0000	0.00	0.0000	0.0000
+5	4	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Strictly requires multiple exchanges to show the same signal direction and magnitude before allowing a trade.	0.0000	0.00	0.0000	0.0000
+5	2	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Adjusts the importance of Order Book Imbalance (OBI) vs. Aggressive Flow (Delta) based on the detected volatility regime.	0.0000	0.00	0.0000	0.0000
+5	1	f7ce086	ABSTAIN	0.00	Down	abstain	0.00	0.0000	Uses `sleep` to observe whether Polymarket odds are moving in the direction of the exchange signal before committing.	0.0000	0.00	0.0000	0.0000

@@ -1,0 +1,1085 @@
+generation	variant	commit	prediction	bet_amount	outcome	status	profit	roi	description	avg_fill	book_depth	spread	resolution_mid
+1	0	3824440	Up	1.00	Up	win	0.02	0.0189	current best (control)	0.9814	7583.18	0.0100	0.6200
+1	1	3824440	Up	1.00	Up	win	0.02	0.0189	variant 1	0.9814	7612.58	0.0100	0.6200
+1	2	3824440	Up	1.00	Up	win	0.02	0.0189	variant 2	0.9814	7583.18	0.0100	0.6200
+1	3	3824440	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.0107	14334.82	0.0000	0.3850
+2	0	3824440	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.2011	28341.88	0.0300	0.4250
+2	1	3824440	Down	1.00	Down	win	0.19	0.1903	variant 1	0.8402	24060.42	0.0100	0.5750
+2	2	3824440	Down	1.00	Down	win	0.19	0.1903	variant 2	0.8402	24056.33	0.0100	0.5750
+2	3	3824440	Down	1.00	Down	win	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.5750
+3	0	bd0b3bf	Up	1.00	Up	win	4.25	4.2458	current best (control)	0.1906	22166.42	0.0100	0.5150
+3	1	bd0b3bf	Up	1.00	Up	win	4.55	4.5506	variant 1	0.1802	21875.80	0.0200	0.5150
+3	2	bd0b3bf	Up	1.00	Up	win	4.55	4.5506	variant 2	0.1802	21885.26	0.0200	0.5150
+3	3	bd0b3bf	Up	1.00	Up	win	4.25	4.2458	variant 3	0.1906	22156.41	0.0100	0.5150
+4	0	db85fb5	Down	1.00	Down	win	0.20	0.2039	current best (control)	0.8306	23691.51	0.0100	0.5050
+4	1	db85fb5	Down	1.00	Down	win	0.20	0.2039	variant 1	0.8306	24016.71	0.0100	0.5050
+4	2	db85fb5	Down	1.00	Down	win	0.09	0.0918	variant 2	0.9159	18509.57	0.0100	0.5050
+4	3	db85fb5	Down	1.00	Down	win	0.20	0.2039	variant 3	0.8306	23583.20	0.0100	0.5050
+5	0	db85fb5	Up	1.00	Up	win	0.31	0.3098	current best (control)	0.7635	27454.06	0.0100	0.5150
+5	1	db85fb5	Up	1.00	Up	win	0.25	0.2470	variant 1	0.8019	27609.99	0.0100	0.5150
+5	2	db85fb5	Up	1.00	Up	win	0.31	0.3098	variant 2	0.7635	27462.31	0.0100	0.5150
+5	3	db85fb5	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.1381	22816.78	0.0100	0.4850
+6	0	db85fb5	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8306	24509.46	0.0100	0.4450
+6	1	db85fb5	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.8306	24654.01	0.0100	0.4450
+6	2	db85fb5	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8306	24767.07	0.0100	0.4450
+6	3	db85fb5	Up	1.00	Up	win	1.81	1.8078	variant 3	0.3562	22157.61	0.0100	0.5550
+7	0	71752aa	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.1381	22422.77	0.0100	0.4850
+7	1	71752aa	Down	1.00	Down	win	0.13	0.1266	variant 1	0.8876	18663.25	0.0100	0.5150
+7	2	71752aa	Down	1.00	Down	win	0.22	0.2179	variant 2	0.8211	19866.59	0.0100	0.5150
+7	3	71752aa	Down	1.00	Down	win	0.13	0.1266	variant 3	0.8876	19055.08	0.0100	0.5150
+8	0	c5b05d0	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6566	17876.15	0.0100	0.4850
+8	1	c5b05d0	Down	1.00	Up	loss	-1.00	-1.0000	from typing import Callable	0.6566	17910.25	0.0100	0.4850
+8	2	c5b05d0	Up	1.00	Up	win	4.89	4.8936	from typing import Callable	0.1697	20025.93	0.0100	0.5850
+8	3	c5b05d0	Up	1.00	Up	win	4.89	4.8936	from typing import Callable	0.1697	20023.73	0.0100	0.5850
+9	0	2650aa2	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7442	14959.23	0.0100	0.4650
+9	1	2650aa2	Down	1.00	Down	win	4.55	4.5506	variant 1	0.1802	18416.46	0.0100	0.5350
+9	2	2650aa2	Down	1.00	Down	win	2.40	2.3954	variant 2	0.2945	17476.84	0.0700	0.5350
+9	3	2650aa2	Down	1.00	Down	win	4.25	4.2458	variant 3	0.1906	18079.28	0.0200	0.5350
+10	0	2af2f16	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9814	6120.89	0.0100	0.4750
+10	1	2af2f16	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9721	5976.44	0.0100	0.4750
+10	2	2af2f16	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9814	6154.62	0.0100	0.4750
+10	3	2af2f16	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9721	5961.89	0.0100	0.4750
+11	0	2af2f16	Down	1.00	Down	win	1.05	1.0495	current best (control)	0.4879	18873.42	0.0100	0.6450
+11	1	2af2f16	Down	1.00	Down	win	0.34	0.3437	variant 1	0.7442	16058.80	0.0200	0.6450
+11	2	2af2f16	Down	1.00	Down	win	0.97	0.9685	variant 2	0.5080	18264.74	0.0100	0.6450
+11	3	2af2f16	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.5579	17940.17	0.0100	0.3550
+12	0	2af2f16	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0214	20712.41	0.0100	0.4650
+12	1	2af2f16	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.0214	20444.17	0.0010	0.4650
+12	2	2af2f16	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.0214	20805.63	0.0100	0.4650
+12	3	2af2f16	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.0321	20758.16	0.0100	0.4650
+13	0	2af2f16	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9534	13713.75	0.0300	0.4050
+13	1	2af2f16	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9253	17158.63	0.0100	0.4050
+13	2	2af2f16	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9534	13713.75	0.0100	0.4050
+13	3	2af2f16	Up	1.00	Up	win	22.38	22.3837	variant 3	0.0428	19961.68	0.0100	0.5950
+14	0	1f77955	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.5975	18617.69	0.0100	0.4700
+14	1	1f77955	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.5975	18647.18	0.0100	0.4700
+14	2	1f77955	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.4476	19058.40	0.0100	0.4700
+14	3	1f77955	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.4678	19002.18	0.0100	0.4700
+15	0	1f77955	Up	1.00	Up	win	45.70	45.7045	current best (control)	0.0214	17999.59	0.0100	0.5850
+15	1	1f77955	Up	1.00	Up	win	30.16	30.1573	variant 1	0.0321	18021.89	0.0100	0.5850
+15	2	1f77955	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9721	11965.29	0.0100	0.4150
+15	3	1f77955	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9814	12838.68	0.0100	0.4150
+16	0	1f77955	Down	1.00	Down	win	0.44	0.4375	current best (control)	0.6957	18217.32	0.0100	0.5450
+16	1	1f77955	Down	1.00	Down	win	0.16	0.1639	variant 1	0.8592	14442.74	0.0600	0.5450
+16	2	1f77955	Down	1.00	Down	win	0.20	0.2039	variant 2	0.8306	14520.84	0.0200	0.5450
+16	3	1f77955	Down	1.00	Down	win	0.42	0.4176	variant 3	0.7054	18756.41	0.0100	0.5450
+17	0	1f77955	Down	1.00	Down	win	5.28	5.2822	current best (control)	0.1592	15865.50	0.0100	0.5050
+17	1	1f77955	Down	1.00	Down	win	2.17	2.1734	variant 1	0.3151	16258.31	0.0100	0.5050
+17	2	1f77955	Down	1.00	Down	win	5.28	5.2822	variant 2	0.1592	16006.89	0.0100	0.5050
+17	3	1f77955	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.5180	14821.07	0.0100	0.4950
+18	0	1f77955	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7731	17496.12	0.0100	0.4950
+18	1	1f77955	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.7731	17549.36	0.0100	0.4950
+18	2	1f77955	Up	1.00	Up	win	1.34	1.3396	variant 2	0.4274	23682.70	0.1000	0.5250
+18	3	1f77955	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8019	18915.44	0.0100	0.4950
+19	0	f94282b	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.3012	20588.03	0.0100	0.4850
+19	1	f94282b	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.3459	20444.70	0.0100	0.4850
+19	2	f94282b	Up	1.00	Up	win	0.14	0.1388	variant 2	0.8781	21910.92	0.0100	0.5150
+19	3	f94282b	Up	1.00	Up	win	0.14	0.1388	variant 3	0.8781	19258.90	0.0100	0.5150
+20	0	b06b6ee	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7345	22571.66	0.0100	0.3950
+20	1	b06b6ee	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.7828	19330.97	0.0100	0.3950
+20	2	b06b6ee	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7345	22140.96	0.0100	0.3950
+20	3	b06b6ee	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.7345	21986.12	0.0100	0.3950
+21	0	b06b6ee	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7635	17590.63	0.0100	0.4750
+21	1	b06b6ee	Up	1.00	Up	win	3.73	3.7277	variant 1	0.2115	18370.01	0.0100	0.5350
+21	2	b06b6ee	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7635	17871.39	0.0100	0.4750
+21	3	b06b6ee	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.7635	17796.89	0.0100	0.4750
+22	0	3667c62	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9907	3792.81	0.0100	0.4750
+22	1	3667c62	Up	1.00	Up	win	17.72	17.7196	variant 1	0.0534	17940.57	0.0100	0.5250
+22	2	3667c62	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9907	3792.81	0.0100	0.4750
+22	3	3667c62	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9065	21026.01	0.0100	0.4750
+23	0	d2ac8da	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0107	17660.84	0.0000	0.4550
+23	1	d2ac8da	Down	1.00	Down	win	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.5450
+23	2	d2ac8da	Down	1.00	Down	win	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.5450
+23	3	d2ac8da	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.0107	17208.49	0.0000	0.4550
+24	0	d2ac8da	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9065	15319.85	0.0100	0.4550
+24	1	d2ac8da	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9441	15196.07	0.0100	0.4550
+24	2	d2ac8da	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8687	21338.24	0.0100	0.4550
+24	3	d2ac8da	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.8687	21333.24	0.0100	0.4550
+25	0	d2ac8da	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8592	16580.24	0.0100	0.4650
+25	1	d2ac8da	Up	1.00	Up	win	2.07	2.0731	variant 1	0.3254	18275.14	0.0100	0.5350
+25	2	d2ac8da	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8019	20672.06	0.0100	0.4650
+25	3	d2ac8da	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8211	20935.15	0.0100	0.4650
+26	0	8cd246a	Up	1.00	Up	win	45.70	45.7045	current best (control)	0.0214	13895.64	0.0100	0.5350
+26	1	8cd246a	Up	1.00	Up	win	45.70	45.7045	variant 1	0.0214	17515.87	0.0100	0.5350
+26	2	8cd246a	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9534	12280.42	0.0100	0.4650
+26	3	8cd246a	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9534	12280.47	0.0100	0.4650
+27	0	8cd246a	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.1381	21655.24	0.0100	0.4200
+27	1	8cd246a	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.4274	23720.26	0.0100	0.4200
+27	2	8cd246a	Up	1.00	Up	win	0.20	0.2039	variant 2	0.8306	17100.04	0.0100	0.5800
+27	3	8cd246a	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.1381	21650.72	0.0100	0.4200
+28	0	3e5ca6c	Up	1.00	Up	win	0.05	0.0489	current best (control)	0.9534	11922.02	0.0100	0.5750
+28	1	3e5ca6c	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0747	15216.05	0.0100	0.4250
+28	2	3e5ca6c	Up	1.00	Up	win	0.06	0.0593	variant 2	0.9441	12709.92	0.0100	0.5750
+28	3	3e5ca6c	Up	1.00	Up	win	0.04	0.0387	variant 3	0.9628	11686.35	0.0100	0.5750
+29	0	db0bf4b	Up	1.00	Up	win	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.4950
+29	1	db0bf4b	Up	1.00	Up	win	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.4950
+29	2	db0bf4b	Up	1.00	Up	win	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.4950
+29	3	db0bf4b	Up	1.00	Up	win	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.4950
+30	0	db0bf4b	Down	1.00	Down	win	1.81	1.8078	current best (control)	0.3562	17983.15	0.0100	0.6150
+30	1	db0bf4b	Down	1.00	Down	win	1.81	1.8078	variant 1	0.3562	18005.11	0.0100	0.6150
+30	2	db0bf4b	Down	1.00	Down	win	1.05	1.0495	variant 2	0.4879	19164.62	0.0100	0.6150
+30	3	db0bf4b	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.6370	15246.02	0.0500	0.3850
+31	0	db0bf4b	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9814	9489.23	0.0100	0.4550
+31	1	db0bf4b	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9907	9148.52	0.0100	0.4550
+31	2	db0bf4b	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9814	9489.23	0.0100	0.4550
+31	3	db0bf4b	Down	1.00	Down	win	2.40	2.3954	variant 3	0.2945	18249.03	0.0100	0.5450
+32	0	5a8b2e7	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.1381	16782.33	0.0100	0.4650
+32	1	5a8b2e7	Down	1.00	Down	win	0.29	0.2934	Incorporates Binance-heavy weighting and momentum votes into a signal velocity model to capture acce	0.7731	15810.37	0.0100	0.5350
+32	2	5a8b2e7	Down	1.00	Down	win	0.22	0.2179	Implements a regime-switching approach that changes the primary signal source based on the market's 	0.8211	16350.60	0.0100	0.5350
+32	3	5a8b2e7	Up	1.00	Down	loss	-1.00	-1.0000	A high-conviction strategy that only trades when OBI and Signed Delta show directional confluence, w	0.2115	20051.95	0.0100	0.4650
+33	0	20da03f	Up	1.00	Up	win	2.28	2.2806	current best (control)	0.3048	15763.85	0.0100	0.6150
+33	1	20da03f	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.7345	12007.77	0.0100	0.3850
+33	2	20da03f	Up	1.00	Up	win	3.97	3.9731	variant 2	0.2011	16370.75	0.0100	0.6150
+33	3	20da03f	Up	1.00	Up	win	4.89	4.8936	variant 3	0.1697	15934.72	0.0100	0.6150
+34	0	f694211	Up	1.00	Up	win	0.86	0.8588	current best (control)	0.5380	14880.18	0.0200	0.5050
+34	1	f694211	Up	1.00	Up	win	0.86	0.8588	Regime-Adaptive Velocity (Adjusts feature weights dynamically based on the volatility regime to prio	0.5380	14868.37	0.0200	0.5050
+34	2	f694211	Up	1.00	Up	win	3.73	3.7277	Exchange Consensus Aggregator (Uses a confidence-weighted approach where signals are amplified if al	0.2115	14563.66	0.0300	0.5050
+34	3	f694211	Down	1.00	Up	loss	-1.00	-1.0000	Delta-OBI Absorption Detector (Specifically targets "Absorption" events where large aggressive marke	0.4678	13569.18	0.0500	0.4950
+35	0	37c977d	Up	1.00	Up	win	0.09	0.0918	current best (control)	0.9159	12681.32	0.0100	0.5650
+35	1	37c977d	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.1592	21575.97	0.0100	0.4250
+35	2	37c977d	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.1906	20131.90	0.0100	0.4250
+35	3	37c977d	Up	1.00	Up	win	0.08	0.0807	variant 3	0.9253	12288.13	0.0100	0.5650
+36	0	37c977d	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9721	10484.69	0.0100	0.4850
+36	1	37c977d	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9721	10582.98	0.0100	0.4850
+36	2	37c977d	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8592	13563.58	0.0200	0.4850
+36	3	37c977d	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9814	10277.49	0.0100	0.4850
+37	0	37c977d	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.0428	19079.98	0.0100	0.3250
+37	1	37c977d	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0428	19078.26	0.0100	0.3250
+37	2	37c977d	Up	1.00	Up	win	0.19	0.1903	variant 2	0.8402	18517.68	0.0100	0.6750
+37	3	37c977d	Up	1.00	Up	win	0.28	0.2775	variant 3	0.7828	20789.53	0.0200	0.6750
+38	0	a1aaa36	Down	1.00	Down	win	1.01	1.0081	current best (control)	0.4980	28463.30	0.0100	0.5850
+38	1	a1aaa36	Down	1.00	Down	win	1.73	1.7294	variant 1	0.3664	25743.67	0.0100	0.5850
+38	2	a1aaa36	Down	1.00	Down	win	1.01	1.0081	variant 2	0.4980	28406.72	0.0100	0.5850
+38	3	a1aaa36	Down	1.00	Down	win	1.01	1.0081	variant 3	0.4980	28578.22	0.0100	0.5850
+39	0	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8306	13935.63	0.0100	0.4750
+39	1	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Weighted Consensus (Weights exchanges by liquidity and shifts feature importance bas	0.8781	15883.21	0.0100	0.4750
+39	2	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	Multi-Exchange Momentum Consensus (Focuses on directional agreement in momentum votes and aggregated	0.8781	15828.67	0.0100	0.4750
+39	3	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	Delta-OBI Confluence Tracker (Uses a temporal check to ensure that both order book imbalance and agg	0.9065	13886.12	0.0100	0.4750
+40	0	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6271	20285.35	0.0100	0.4850
+40	1	a9984f8	CRASH	0.00	Down	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+40	2	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.6271	20321.20	0.0100	0.4850
+40	3	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.5380	24341.22	0.0100	0.4850
+41	0	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9441	10274.42	0.0100	0.4950
+41	1	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	Liquidity-Weighted Exchange Consensus (Aggregates signals across all exchanges using a weight distri	0.8402	13353.68	0.0100	0.4950
+41	2	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Temporal Switching (Uses a 20-second temporal window to switch between OBI-driven me	0.9441	10148.73	0.0100	0.4950
+41	3	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	Multi-Pillar Confluence (A high-conviction model that requires alignment between three independent p	0.9441	10533.84	0.0100	0.4950
+42	0	a9984f8	Up	1.00	Up	win	0.86	0.8588	current best (control)	0.5380	17885.20	0.0100	0.5400
+42	1	a9984f8	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5180	19273.04	0.0100	0.4550
+42	2	a9984f8	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.5180	19273.04	0.0100	0.4550
+42	3	a9984f8	Up	1.00	Up	win	0.76	0.7611	variant 3	0.5678	16310.44	0.0100	0.5400
+43	0	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9907	7361.29	0.0100	0.3650
+43	1	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9907	6496.06	0.0100	0.3650
+43	2	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9907	6411.91	0.0100	0.3650
+43	3	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9628	11963.52	0.0100	0.3650
+44	0	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.5380	19783.00	0.0100	0.3950
+44	1	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.3357	20650.82	0.0100	0.3950
+44	2	a9984f8	Down	1.00	Down	win	0.44	0.4375	variant 2	0.6957	18494.70	0.0100	0.5950
+44	3	a9984f8	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.5777	17957.31	0.0100	0.3950
+45	0	5a95046	Down	1.00	Down	win	3.30	3.3038	current best (control)	0.2324	28808.14	0.0100	0.5850
+45	1	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	Incorporates liquidity-weighted exchange aggregation (favoring Binance) and uses the `Funding Trend`	0.8019	19258.29	0.0100	0.4350
+45	2	5a95046	Down	1.00	Down	win	3.30	3.3038	Implements an "Absorption Detector" that specifically looks for divergence between aggressive market	0.2324	28803.59	0.0100	0.5850
+45	3	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	A temporal momentum-acceleration strategy that uses a short `sleep` window to detect whether the cur	0.8876	15361.67	0.0100	0.4350
+46	0	5a95046	Down	1.00	Down	win	0.44	0.4375	current best (control)	0.6957	28777.37	0.0100	0.5150
+46	1	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	High-weight Binance consensus aggregator that requires alignment between Order Book Imbalance and Si	0.3459	22417.44	0.0100	0.4850
+46	2	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	Absorption-focused strategy that trades the reversal when aggressive Signed Delta diverges significa	0.3459	22530.65	0.0100	0.4850
+46	3	5a95046	Down	1.00	Down	win	0.44	0.4375	Temporal Momentum-Regime hybrid that uses a 15-second window to confirm delta acceleration in high-v	0.6957	28754.93	0.0100	0.5150
+47	0	5a95046	Down	1.00	Down	win	2.40	2.3954	current best (control)	0.2945	29916.18	0.0100	0.5950
+47	1	5a95046	Down	1.00	Down	win	2.40	2.3954	Binance-Centric Absorption Detector (Focuses on detecting "Absorption" events on Binance by identify	0.2945	30112.72	0.0100	0.5950
+47	2	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	Funding-Regime Contrarian (Uses the `Funding Trend` to identify overextended markets; in low-volatil	0.7442	18375.69	0.0100	0.4050
+47	3	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	Triple-Confluence Momentum (A high-conviction strategy that only enters a direction when Order Book 	0.7442	19218.07	0.0100	0.4050
+48	0	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8592	16819.69	0.0100	0.4750
+48	1	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.8876	15782.52	0.0100	0.4750
+48	2	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8876	15646.14	0.0100	0.4750
+48	3	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.8876	15758.33	0.0100	0.4750
+49	0	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6468	22098.34	0.0100	0.3650
+49	1	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.6468	22090.37	0.0100	0.3650
+49	2	5a95046	Down	1.00	Down	win	1.52	1.5191	variant 2	0.3970	30629.03	0.0100	0.6350
+49	3	5a95046	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7248	15997.15	0.0400	0.3650
+50	0	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8592	17592.84	0.0100	0.4750
+50	1	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	Implements a "Liquidity Absorption" detector that identifies price reversal signals when aggressive 	0.8592	17070.26	0.0100	0.4750
+50	2	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	Implements a "Regime-Adaptive Weighting" strategy that dynamically shifts its feature priority betwe	0.8592	17683.75	0.0100	0.4750
+50	3	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	Implements a "Temporal Delta Velocity" model that uses the `sleep` function to sample the market twi	0.9065	12705.97	0.0100	0.4750
+51	0	2d945d1	Down	1.00	Down	win	0.48	0.4789	current best (control)	0.6762	33204.10	0.0100	0.5350
+51	1	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.3664	21854.90	0.0100	0.4750
+51	2	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.4274	20172.12	0.0400	0.4750
+51	3	2d945d1	Down	1.00	Down	win	0.48	0.4789	variant 3	0.6762	33212.10	0.0100	0.5350
+52	0	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0428	17269.99	0.0100	0.4700
+52	1	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.0428	17274.55	0.0100	0.4700
+52	2	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.0428	17270.19	0.0100	0.4700
+52	3	2d945d1	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.0214	14067.41	0.0100	0.4700
+53	0	2d945d1	Down	1.00	Down	win	2.17	2.1734	current best (control)	0.3151	38119.23	0.0100	0.5850
+53	1	2d945d1	Down	1.00	Down	win	0.46	0.4579	variant 1	0.6859	30305.78	0.0100	0.5850
+53	2	2d945d1	Down	1.00	Down	win	2.17	2.1734	variant 2	0.3151	33181.18	0.0100	0.5850
+53	3	2d945d1	Down	1.00	Down	win	2.17	2.1734	variant 3	0.3151	38000.33	0.0100	0.5850
+54	0	2d945d1	Up	1.00	Up	win	0.44	0.4375	current best (control)	0.6957	21221.92	0.0100	0.5350
+54	1	2d945d1	Up	1.00	Up	win	0.23	0.2323	variant 1	0.8115	16606.03	0.0100	0.5350
+54	2	2d945d1	Up	1.00	Up	win	0.44	0.4375	variant 2	0.6957	21251.03	0.0100	0.5350
+54	3	2d945d1	Up	1.00	Up	win	0.40	0.3984	variant 3	0.7151	21569.11	0.0100	0.5350
+55	0	2d945d1	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9814	19566.38	0.0100	0.4950
+55	1	2d945d1	Down	1.00	Up	loss	-1.00	-1.0000	Divergence-Capture Absorption: Prioritizes reversal signals when aggressive trade flow (Delta) confl	0.9814	19320.70	0.0100	0.4950
+55	2	2d945d1	Up	1.00	Up	win	45.70	45.7045	Temporal Delta-Acceleration: Uses a 20-second sampling window to detect the velocity of trade flow, 	0.0214	13507.29	0.0100	0.5050
+55	3	2d945d1	Down	1.00	Up	loss	-1.00	-1.0000	Volatility-Regime Adaptive Weighting: Dynamically shifts feature importance between 'Order Book Stru	0.9814	19588.33	0.0100	0.4950
+56	0	bc202a6	Up	1.00	Up	win	1.34	1.3396	current best (control)	0.4274	20477.58	0.0100	0.5350
+56	1	bc202a6	Up	1.00	Up	win	1.29	1.2855	Momentum-Delta Confluence Strategy: Combines the velocity of aggressive trading (Signed Delta) with 	0.4375	20123.63	0.0100	0.5350
+56	2	bc202a6	Down	1.00	Up	loss	-1.00	-1.0000	Regime-Adaptive Logic: Dynamically switches the primary signal source between Order Book Imbalance (	0.6173	20692.81	0.0100	0.4650
+56	3	bc202a6	Up	1.00	Up	win	1.34	1.3396	Directional Confluence Tracker: Requires that both Order Book Imbalance (OBI) and aggressive trading	0.4274	20402.83	0.0100	0.5350
+57	0	bc202a6	Down	1.00	Down	win	0.65	0.6463	current best (control)	0.6074	16043.49	0.0100	0.5050
+57	1	bc202a6	Down	1.00	Down	win	0.65	0.6463	variant 1	0.6074	16553.80	0.0100	0.5050
+57	2	bc202a6	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.4577	16773.56	0.0100	0.4950
+57	3	bc202a6	Down	1.00	Down	win	0.67	0.6735	variant 3	0.5975	15643.10	0.0100	0.5050
+58	0	4810655	Up	1.00	Up	win	1.34	1.3396	current best (control)	0.4274	21295.19	0.0100	0.5150
+58	1	4810655	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.6173	21386.09	0.0100	0.4850
+58	2	4810655	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.6173	20321.72	0.0100	0.4850
+58	3	4810655	Up	1.00	Up	win	1.40	1.3965	variant 3	0.4173	21357.64	0.0100	0.5150
+59	0	2df9bbc	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.2945	21620.14	0.0100	0.4850
+59	1	2df9bbc	Down	1.00	Up	loss	-1.00	-1.0000	Absorption-Driven Reversal (Targets high-conviction reversals when aggressive market orders (Signed 	0.2945	21552.13	0.0100	0.4850
+59	2	2df9bbc	Up	1.00	Up	win	0.15	0.1512	Temporal Delta-Acceleration (Uses the rate of change of aggressive trade flow to capture the "burst"	0.8687	17859.44	0.0100	0.5150
+59	3	2df9bbc	Up	1.00	Up	win	0.38	0.3796	Multi-Pillar Consensus (Aggregates all exchange signals and uses Funding Trends as a volatility/over	0.7248	22553.25	0.0100	0.5150
+60	0	e539bf9	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.5579	27734.84	0.0100	0.4450
+60	1	e539bf9	Up	1.00	Up	win	1.29	1.2855	variant 1	0.4375	22685.01	0.0100	0.5550
+60	2	e539bf9	Up	1.00	Up	win	1.05	1.0495	variant 2	0.4879	26035.36	0.0100	0.5550
+60	3	e539bf9	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.5579	27734.84	0.0100	0.4450
+61	0	69fe837	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.0428	21939.18	0.0100	0.4650
+61	1	69fe837	Down	1.00	Up	loss	-1.00	-1.0000	Momentum-Augmented Delta Velocity: Combines the velocity of aggressive trade flow with the direction	0.0321	22129.60	0.0100	0.4650
+61	2	69fe837	Down	1.00	Up	loss	-1.00	-1.0000	Divergence-Based Absorption: Specifically targets reversals by identifying 'absorption' events where	0.0428	21939.18	0.0100	0.4650
+61	3	69fe837	Down	1.00	Up	loss	-1.00	-1.0000	Volatility-Adjusted Sensitivity: Dynamically scales the decision threshold based on the current vola	0.0428	22002.46	0.0100	0.4650
+62	0	69fe837	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6074	23445.13	0.0100	0.3750
+62	1	69fe837	Down	1.00	Down	win	1.34	1.3396	variant 1	0.4274	22281.88	0.0100	0.6250
+62	2	69fe837	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.7345	21989.12	0.0100	0.3750
+62	3	69fe837	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7345	21997.42	0.0100	0.3750
+63	0	7710428	Up	1.00	Up	win	1.29	1.2855	current best (control)	0.4375	15474.70	0.0100	0.5050
+63	1	7710428	Up	1.00	Up	win	1.14	1.1376	variant 1	0.4678	20356.89	0.0100	0.5050
+63	2	7710428	Up	1.00	Up	win	1.98	1.9791	variant 2	0.3357	18419.37	0.0100	0.5050
+63	3	7710428	CRASH	0.00	Up	crash	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.0000
+64	0	e47e75e	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.4678	25262.03	0.0100	0.4550
+64	1	e47e75e	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.4980	17513.53	0.0100	0.4550
+64	2	e47e75e	Down	1.00	Down	win	0.73	0.7309	variant 2	0.5777	21670.53	0.0100	0.5450
+64	3	e47e75e	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.4779	25339.91	0.0100	0.4550
+65	0	c728205	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9721	19953.98	0.0100	0.4550
+65	1	c728205	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9907	13586.34	0.0100	0.4550
+65	2	c728205	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9721	20308.03	0.0100	0.4550
+65	3	c728205	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9721	20382.02	0.0100	0.4550
+66	0	c728205	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.5876	27063.00	0.0100	0.4500
+66	1	c728205	Up	1.00	Up	win	3.97	3.9731	variant 1	0.2011	21752.44	0.0100	0.5350
+66	2	c728205	Up	1.00	Up	win	1.18	1.1846	variant 2	0.4577	26669.74	0.0100	0.5350
+66	3	c728205	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.5876	27059.65	0.0100	0.4500
+67	0	b218cc7	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7151	21600.37	0.0100	0.4950
+67	1	b218cc7	Up	1.00	Down	loss	-1.00	-1.0000	Implements a Multi-Factor Confluence model that aggregates weighted signals from OBI, Signed Delta, 	0.7054	25185.43	0.0100	0.4950
+67	2	b218cc7	Up	1.00	Down	loss	-1.00	-1.0000	Implements a "Delta-OBI Divergence" (Absorption) strategy that identifies potential reversals by det	0.7054	25228.48	0.0100	0.4950
+67	3	b218cc7	Down	1.00	Down	win	1.73	1.7294	Implements a "Regime-Adaptive Temporal Momentum" strategy that uses a 25-second sampling window to m	0.3664	21639.87	0.0100	0.5050
+68	0	b218cc7	Up	1.00	Up	win	0.65	0.6463	current best (control)	0.6074	15528.16	0.0100	0.5850
+68	1	b218cc7	Up	1.00	Up	win	0.48	0.4789	variant 1	0.6762	14605.30	0.0100	0.5850
+68	2	b218cc7	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4173	19442.02	0.0100	0.3950
+68	3	b218cc7	Up	1.00	Up	win	0.52	0.5230	variant 3	0.6566	21311.83	0.0100	0.5850
+69	0	b218cc7	Down	1.00	Down	win	0.01	0.0094	current best (control)	0.9907	2634.91	0.0100	0.5450
+69	1	b218cc7	Down	1.00	Down	win	0.01	0.0094	variant 1	0.9907	5794.57	0.0100	0.5450
+69	2	b218cc7	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.1276	20099.72	0.0100	0.4850
+69	3	b218cc7	Down	1.00	Down	win	0.01	0.0094	variant 3	0.9907	6304.47	0.0100	0.5450
+70	0	b218cc7	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8019	20653.89	0.0100	0.4600
+70	1	b218cc7	CRASH	0.00	Up	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+70	2	b218cc7	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8115	24666.60	0.0100	0.4600
+70	3	b218cc7	CRASH	0.00	Up	crash	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.0000
+71	0	b218cc7	Down	1.00	Down	win	1.46	1.4562	current best (control)	0.4071	18265.98	0.0100	0.5300
+71	1	b218cc7	Down	1.00	Down	win	1.66	1.6554	Absorption-Capture Strategy (Focuses on detecting "absorption" where high aggressive delta fails to 	0.3766	18062.22	0.0100	0.5300
+71	2	b218cc7	Up	1.00	Down	loss	-1.00	-1.0000	Cross-Exchange Consensus Aggregator (Focuses on high-conviction entries by requiring alignment betwe	0.8497	18662.94	0.0100	0.5050
+71	3	b218cc7	Down	1.00	Down	win	1.73	1.7294	Triple-Point Acceleration Model (Uses a three-point sampling method to calculate the second derivati	0.3664	18854.51	0.0100	0.5300
+72	0	b85527c	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.3970	21619.63	0.0100	0.4550
+72	1	b85527c	Up	1.00	Up	win	0.59	0.5946	variant 1	0.6271	22204.20	0.0100	0.5450
+72	2	b85527c	Up	1.00	Up	win	0.73	0.7309	variant 2	0.5777	22852.71	0.0100	0.5450
+72	3	b85527c	Up	1.00	Up	win	0.73	0.7309	variant 3	0.5777	22233.34	0.0100	0.5450
+73	0	9e81db1	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8970	19084.49	0.0100	0.4250
+73	1	9e81db1	Up	1.00	Up	win	14.61	14.6102	variant 1	0.0641	23824.57	0.0100	0.5750
+73	2	9e81db1	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8970	19084.49	0.0100	0.4250
+73	3	9e81db1	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8970	19203.21	0.0100	0.4250
+74	0	cd896e7	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6859	19942.17	0.0100	0.4550
+74	1	cd896e7	Down	1.00	Up	loss	-1.00	-1.0000	from typing import Callable	0.6370	23056.59	0.0100	0.4550
+74	2	cd896e7	Up	1.00	Up	win	0.59	0.5946	from typing import Callable	0.6271	25850.00	0.0100	0.5350
+74	3	cd896e7	Up	1.00	Up	win	0.59	0.5946	from typing import Callable	0.6271	25886.85	0.0100	0.5350
+75	0	0166284	Up	1.00	Up	win	0.62	0.6200	current best (control)	0.6173	26694.74	0.0100	0.5350
+75	1	0166284	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.2635	22999.95	0.0100	0.4650
+75	2	0166284	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4274	25247.65	0.0100	0.4650
+75	3	0166284	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4274	25771.51	0.0100	0.4650
+76	0	0166284	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6468	28206.45	0.0100	0.4350
+76	1	0166284	CRASH	0.00	Down	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+76	2	0166284	Down	1.00	Down	win	0.65	0.6463	variant 2	0.6074	22466.00	0.0100	0.5650
+76	3	0166284	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.6468	28130.18	0.0100	0.4350
+77	0	e50ca84	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.5180	20349.45	0.0100	0.4750
+77	1	e50ca84	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5180	20566.79	0.0100	0.4750
+77	2	e50ca84	Up	1.00	Up	win	0.46	0.4579	variant 2	0.6859	19153.72	0.0100	0.5250
+77	3	e50ca84	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.5180	20566.79	0.0100	0.4750
+78	0	95e4f64	Up	1.00	Up	win	0.76	0.7611	current best (control)	0.5678	16618.11	0.0100	0.5950
+78	1	95e4f64	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.4476	17191.22	0.0100	0.3850
+78	2	95e4f64	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4980	20869.44	0.0100	0.3850
+78	3	95e4f64	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4980	21511.25	0.0100	0.3850
+1	0	95e4f64	Up	1.00	Up	win	0.25	0.2470	current best (control)	0.8019	23914.55	0.0100	0.7150
+1	1	95e4f64	CRASH	0.00	Up	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+1	2	95e4f64	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.5678	65660.95	0.0100	0.2850
+1	3	95e4f64	Up	1.00	Up	win	0.23	0.2323	variant 3	0.8115	24381.93	0.0100	0.7150
+2	0	95e4f64	Up	1.00	Up	win	1.34	1.3396	current best (control)	0.4274	13463.68	0.0100	0.5800
+2	1	95e4f64	Up	1.00	Up	win	1.18	1.1846	variant 1	0.4577	13116.40	0.0100	0.5800
+2	2	95e4f64	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7248	15610.87	0.0100	0.4200
+2	3	95e4f64	Up	1.00	Up	win	17.72	17.7196	variant 3	0.0534	10654.17	0.0100	0.5800
+3	0	9ca2e61	Up	1.00	Up	win	0.07	0.0699	current best (control)	0.9347	12031.01	0.0100	0.5050
+3	1	9ca2e61	Up	1.00	Up	win	0.14	0.1388	variant 1	0.8781	16692.05	0.0100	0.5050
+3	2	9ca2e61	Up	1.00	Up	win	0.28	0.2775	variant 2	0.7828	22474.31	0.0200	0.5050
+3	3	9ca2e61	Up	1.00	Up	win	0.14	0.1388	variant 3	0.8781	16696.45	0.0100	0.5050
+4	0	abf5e35	Down	1.00	Down	win	5.73	5.7264	current best (control)	0.1487	23275.58	0.0100	0.5150
+4	1	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.8781	14101.41	0.0100	0.4850
+4	2	abf5e35	Down	1.00	Down	win	5.73	5.7264	variant 2	0.1487	23275.58	0.0100	0.5150
+4	3	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.8781	18536.01	0.0100	0.4850
+5	0	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.4577	22155.09	0.0100	0.4850
+5	1	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	Temporal Delta Velocity: Uses a two-step sampling approach to measure the acceleration of aggressive	0.6370	17608.21	0.0100	0.4850
+5	2	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	Binance-Weighted Confluence: Prioritizes Binance signals due to its higher liquidity and uses a conf	0.4678	22171.93	0.0200	0.4850
+5	3	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	Absorption & Exhaustion: Targets reversal opportunities by detecting "Absorption" (high delta but ne	0.4577	22208.53	0.0200	0.4850
+6	0	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8970	17525.33	0.0100	0.4950
+6	1	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.8970	17534.88	0.0100	0.4950
+6	2	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8970	17525.33	0.0100	0.4950
+6	3	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8687	14576.60	0.0100	0.4950
+7	0	abf5e35	Down	1.00	Down	win	0.33	0.3265	current best (control)	0.7539	22445.49	0.0100	0.5450
+7	1	abf5e35	Down	1.00	Down	win	0.33	0.3265	Implements a Binance-Weighted Multi-Factor Confluence model, prioritizing the highest liquidity exch	0.7539	22456.89	0.0100	0.5450
+7	2	abf5e35	Down	1.00	Down	win	0.33	0.3265	Implements an "Absorption-Divergence" strategy that specifically targets reversals by identifying wh	0.7539	22452.89	0.0100	0.5450
+7	3	abf5e35	Down	1.00	Down	win	0.13	0.1266	Implements a "Temporal Flow Acceleration" model that uses the `sleep` function to sample the rate of	0.8876	16652.71	0.0100	0.5450
+8	0	abf5e35	Up	1.00	Up	win	0.23	0.2323	current best (control)	0.8115	19390.03	0.0100	0.5150
+8	1	abf5e35	Up	1.00	Up	win	0.06	0.0593	variant 1	0.9441	14660.34	0.0100	0.5150
+8	2	abf5e35	Up	1.00	Up	win	0.23	0.2323	variant 2	0.8115	19390.03	0.0100	0.5150
+8	3	abf5e35	Up	1.00	Up	win	0.23	0.2323	variant 3	0.8115	19390.03	0.0100	0.5150
+9	0	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9159	19453.12	0.0100	0.4050
+9	1	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9907	9593.78	0.0100	0.4050
+9	2	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9159	18355.63	0.0100	0.4050
+9	3	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9159	19385.42	0.0100	0.4050
+10	0	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8497	20265.46	0.0100	0.4900
+10	1	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	Implements a "Temporal Delta Velocity" model that uses `sleep()` to measure the acceleration of aggr	0.9159	17642.21	0.0100	0.4900
+10	2	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	Implements an "Absorption-Capture" strategy that identifies price reversals by detecting when high a	0.8497	20265.46	0.0100	0.4900
+10	3	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	Implements a "Multi-Exchange Consensus Aggregator" that uses a high-conviction voting mechanism, req	0.8497	20420.25	0.0100	0.4900
+11	0	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6664	23906.35	0.0100	0.4950
+11	1	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.6074	23259.09	0.0100	0.4950
+11	2	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.6664	23785.70	0.0100	0.4950
+11	3	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.6664	23785.70	0.0100	0.4950
+12	0	abf5e35	Down	1.00	Down	win	0.31	0.3098	current best (control)	0.7635	22610.07	0.0100	0.5050
+12	1	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.2635	22456.89	0.0200	0.4950
+12	2	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.2739	27240.88	0.0100	0.4950
+12	3	abf5e35	Down	1.00	Down	win	0.31	0.3098	variant 3	0.7635	22539.80	0.0100	0.5050
+13	0	abf5e35	Down	1.00	Down	win	0.70	0.7017	current best (control)	0.5876	25941.37	0.0100	0.5050
+13	1	abf5e35	Down	1.00	Down	win	0.70	0.7017	variant 1	0.5876	25941.37	0.0100	0.5050
+13	2	abf5e35	Down	1.00	Down	win	0.46	0.4579	variant 2	0.6859	21217.81	0.0100	0.5050
+13	3	abf5e35	Down	1.00	Down	win	0.70	0.7017	variant 3	0.5876	25941.37	0.0100	0.5050
+14	0	abf5e35	Up	1.00	Up	win	1.29	1.2855	current best (control)	0.4375	24167.49	0.0100	0.5750
+14	1	abf5e35	Up	1.00	Up	win	0.28	0.2775	variant 1	0.7828	14360.15	0.0100	0.5750
+14	2	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.6074	23956.60	0.0100	0.4250
+14	3	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.6074	23872.02	0.0100	0.4250
+15	0	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6173	23239.90	0.0600	0.4850
+15	1	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5280	20012.15	0.0100	0.4850
+15	2	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.6173	23239.90	0.0600	0.4850
+15	3	abf5e35	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.6173	23239.90	0.0600	0.4850
+16	0	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8876	19041.96	0.0100	0.4950
+16	1	abf5e35	Down	1.00	Down	win	2.52	2.5188	variant 1	0.2842	23276.41	0.0100	0.5050
+16	2	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8876	19052.30	0.0100	0.4950
+16	3	abf5e35	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.8876	19067.56	0.0100	0.4950
+17	0	8d4cc21	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6468	24064.60	0.0100	0.4750
+17	1	8d4cc21	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.5777	31031.02	0.0100	0.4750
+17	2	8d4cc21	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.6271	24765.83	0.0100	0.4750
+17	3	8d4cc21	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.6468	24064.60	0.0100	0.4750
+18	0	8d4cc21	Down	1.00	Down	win	0.40	0.3984	current best (control)	0.7151	20083.38	0.0100	0.5250
+18	1	8d4cc21	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.5678	23448.56	0.0100	0.4750
+18	2	8d4cc21	Down	1.00	Down	win	0.23	0.2323	variant 2	0.8115	16891.33	0.0200	0.5250
+18	3	8d4cc21	Down	1.00	Down	win	0.40	0.3984	variant 3	0.7151	18872.80	0.0100	0.5250
+19	0	8d4cc21	Down	1.00	Down	win	2.65	2.6516	current best (control)	0.2739	21119.82	0.0100	0.5150
+19	1	8d4cc21	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7442	23234.65	0.0100	0.4900
+19	2	8d4cc21	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.7442	23234.65	0.0100	0.4900
+19	3	8d4cc21	Down	1.00	Down	win	2.80	2.7951	variant 3	0.2635	21271.41	0.0100	0.5150
+20	0	8c9890a	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7442	19611.41	0.0100	0.4950
+20	1	8c9890a	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.6762	21093.39	0.0100	0.4950
+20	2	8c9890a	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.6762	21106.00	0.0100	0.4950
+20	3	8c9890a	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8019	18947.76	0.0100	0.4950
+21	0	8c9890a	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.5876	24540.67	0.0100	0.4650
+21	1	8c9890a	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5876	24191.49	0.0100	0.4650
+21	2	8c9890a	Up	1.00	Up	win	0.97	0.9685	variant 2	0.5080	26740.15	0.0100	0.5350
+21	3	8c9890a	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.6074	19878.07	0.0100	0.4650
+22	0	d73627f	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7248	29718.93	0.0100	0.4650
+22	1	d73627f	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7248	29718.93	0.0100	0.4650
+22	2	d73627f	Down	1.00	Down	win	2.52	2.5188	variant 2	0.2842	28400.28	0.0100	0.5750
+22	3	d73627f	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7248	29730.31	0.0100	0.4650
+23	0	b6c96fe	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.5380	25943.32	0.0100	0.4650
+23	1	b6c96fe	Up	1.00	Down	loss	-1.00	-1.0000	Binance-Weighted Confluence: Combines OBI and the sign of Signed Delta, applying higher weights to B	0.6074	26198.71	0.0100	0.4650
+23	2	b6c96fe	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Signal Switching: Switches between momentum-based trading in high volatility and liq	0.6074	26293.15	0.0100	0.4650
+23	3	b6c96fe	Up	1.00	Down	loss	-1.00	-1.0000	Triple-Sample Trend Persistence: Uses three sampling points to ensure a trend is stable and not a mo	0.7345	21821.45	0.0100	0.4650
+24	0	b6c96fe	Up	1.00	Up	win	2.40	2.3954	current best (control)	0.2945	25339.15	0.0100	0.5050
+24	1	b6c96fe	Up	1.00	Up	win	1.98	1.9791	variant 1	0.3357	25886.03	0.0100	0.5050
+24	2	b6c96fe	Up	1.00	Up	win	1.98	1.9791	variant 2	0.3357	25888.82	0.0100	0.5050
+24	3	b6c96fe	Up	1.00	Up	win	1.98	1.9791	variant 3	0.3357	25961.85	0.0100	0.5050
+25	0	b6c96fe	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.1487	26079.17	0.0100	0.4350
+25	1	b6c96fe	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.3254	31054.52	0.0100	0.4350
+25	2	b6c96fe	Up	1.00	Up	win	0.40	0.3984	variant 2	0.7151	27711.76	0.0100	0.5650
+25	3	b6c96fe	Up	1.00	Up	win	0.40	0.3984	variant 3	0.7151	27662.59	0.0100	0.5650
+26	0	0b57bdf	Up	1.00	Up	win	0.50	0.5006	current best (control)	0.6664	31569.69	0.0100	0.5950
+26	1	0b57bdf	Up	1.00	Up	win	0.23	0.2323	variant 1	0.8115	24952.30	0.0100	0.5950
+26	2	0b57bdf	Up	1.00	Up	win	0.48	0.4789	variant 2	0.6762	31717.37	0.0100	0.5950
+26	3	0b57bdf	Up	1.00	Up	win	0.48	0.4789	variant 3	0.6762	31725.89	0.0100	0.5950
+27	0	0b57bdf	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7731	21837.73	0.0800	0.4450
+27	1	0b57bdf	Down	1.00	Down	win	1.98	1.9791	variant 1	0.3357	28591.53	0.0800	0.5550
+27	2	0b57bdf	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.7731	19605.63	0.0100	0.4450
+27	3	0b57bdf	Down	1.00	Down	win	1.98	1.9791	variant 3	0.3357	29122.16	0.0800	0.5550
+28	0	fb02b0a	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6271	24942.93	0.0100	0.4600
+28	1	fb02b0a	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.6271	24866.07	0.0100	0.4600
+28	2	fb02b0a	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.6468	24194.93	0.0300	0.4600
+28	3	fb02b0a	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.6271	24929.33	0.0100	0.4600
+29	0	fb02b0a	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7924	29501.16	0.0100	0.4350
+29	1	fb02b0a	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7828	29759.05	0.0100	0.4350
+29	2	fb02b0a	Down	1.00	Down	win	2.95	2.9505	variant 2	0.2531	25799.95	0.0100	0.5650
+29	3	fb02b0a	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7828	29727.61	0.0100	0.4350
+30	0	770d685	Down	1.00	Down	win	0.36	0.3614	current best (control)	0.7345	20780.35	0.0100	0.5350
+30	1	770d685	Up	1.00	Down	loss	-1.00	-1.0000	Absorption Reversal Specialist: Targets price reversals by detecting divergence between aggressive t	0.2842	27567.97	0.0100	0.4650
+30	2	770d685	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Confluence: Switches between momentum-based and liquidity-based logic depending on t	0.2842	27569.85	0.0100	0.4650
+30	3	770d685	Up	1.00	Down	loss	-1.00	-1.0000	Triple-Sample Trend Persistence: Uses three sampling points over a 30-second window to ensure that t	0.2219	20112.21	0.0100	0.4650
+31	0	770d685	Down	1.00	Down	win	8.39	8.3914	current best (control)	0.1065	21216.57	0.0100	0.5350
+31	1	770d685	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.8970	18362.94	0.0100	0.4650
+31	2	770d685	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9159	17635.08	0.0100	0.4650
+31	3	770d685	Down	1.00	Down	win	6.84	6.8368	variant 3	0.1276	25732.60	0.0100	0.5350
+32	0	770d685	Up	1.00	Up	win	0.46	0.4579	current best (control)	0.6859	23822.77	0.0100	0.5450
+32	1	770d685	Up	1.00	Up	win	0.46	0.4579	Regime-Adaptive Weighted Velocity: Adjusts the weighting of OBI vs. Signed Delta based on the volati	0.6859	23822.77	0.0100	0.5450
+32	2	770d685	Up	1.00	Up	win	0.42	0.4176	Triple-Sample Trend Persistence: Increases sampling frequency to three points (0s, 15s, 30s) to ensu	0.7054	23284.18	0.0100	0.5450
+32	3	770d685	Down	1.00	Up	loss	-1.00	-1.0000	Absorption-Divergence Filter: Enhances the velocity model by checking for "Absorption" (where aggres	0.3562	24527.90	0.0100	0.4550
+33	0	770d685	Up	1.00	Up	win	1.66	1.6554	current best (control)	0.3766	19172.59	0.0100	0.5550
+33	1	770d685	Down	1.00	Up	loss	-1.00	-1.0000	Uses tanh-scaling to normalize `Signed Delta` against `OBI` and employs three sampling points to ens	0.6468	14897.26	0.0100	0.4450
+33	2	770d685	Down	1.00	Up	loss	-1.00	-1.0000	A low-latency regime-adaptive strategy that switches signal components (Momentum vs. OBI) based on t	0.7539	17048.99	0.0100	0.4450
+33	3	770d685	Down	1.00	Up	loss	-1.00	-1.0000	A consensus-based model that aggregates sentiment across all exchanges, using a weighted "Sentiment 	0.7539	17070.65	0.0100	0.4450
+34	0	770d685	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9628	16302.49	0.0100	0.4050
+34	1	770d685	Down	1.00	Down	win	17.72	17.7196	Regime-Adaptive Signal Switching: Uses `Volatility Regime` to switch between an OBI-heavy strategy i	0.0534	28720.61	0.0100	0.5950
+34	2	770d685	Up	1.00	Down	loss	-1.00	-1.0000	Order Flow Divergence (Absorption) Detector: Targets price reversals by identifying "absorption" eve	0.9628	16348.70	0.0100	0.4050
+34	3	770d685	Up	1.00	Down	loss	-1.00	-1.0000	Triple-Sample Momentum with Funding Filter: Uses three sampling points to ensure trend stability and	0.9628	13020.07	0.0100	0.4050
+35	0	8067b1b	Up	1.00	Up	win	4.25	4.2458	current best (control)	0.1906	24667.96	0.0100	0.6100
+35	1	8067b1b	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9065	14796.19	0.0100	0.3950
+35	2	8067b1b	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8402	19532.20	0.0100	0.3950
+35	3	8067b1b	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8781	20499.41	0.0100	0.3950
+36	0	8067b1b	Down	1.00	Down	win	0.25	0.2470	current best (control)	0.8019	20569.06	0.0100	0.5350
+36	1	8067b1b	Down	1.00	Down	win	0.16	0.1639	Temporal Momentum Sampler: Uses multi-stage sampling via `sleep` to confirm that aggressive trade fl	0.8592	13905.83	0.0100	0.5350
+36	2	8067b1b	Down	1.00	Down	win	0.25	0.2470	Absorption-Divergence Detector: Identifies market reversals by detecting 'absorption'—where aggressi	0.8019	20569.06	0.0100	0.5350
+36	3	8067b1b	Down	1.00	Down	win	0.25	0.2470	Funding-Adjusted Consensus: Aggregates signals across all exchanges and applies a contrarian filter 	0.8019	20569.06	0.0100	0.5350
+37	0	8067b1b	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8781	20827.28	0.0100	0.4750
+37	1	8067b1b	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.8970	17763.97	0.0100	0.4750
+37	2	8067b1b	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8781	21283.53	0.0100	0.4750
+37	3	8067b1b	Up	1.00	Up	win	5.73	5.7264	variant 3	0.1487	23973.70	0.0100	0.5250
+38	0	4de53be	Up	1.00	Up	win	0.36	0.3614	current best (control)	0.7345	25982.38	0.0200	0.5950
+38	1	4de53be	Up	1.00	Up	win	0.11	0.1148	variant 1	0.8970	18938.87	0.0100	0.5950
+38	2	4de53be	Up	1.00	Up	win	0.38	0.3796	variant 2	0.7248	25222.21	0.0100	0.5950
+38	3	4de53be	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.3151	26914.76	0.0200	0.4050
+39	0	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.4879	28289.55	0.0100	0.4950
+39	1	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5096	23318.03	0.0600	0.4950
+39	2	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4879	28403.90	0.0100	0.4950
+39	3	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4879	28398.94	0.0100	0.4950
+40	0	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9721	12586.25	0.0100	0.4850
+40	1	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	Regime-Adaptive Signal Switcher: Switches between OBI-heavy logic in low volatility and Momentum/Del	0.7731	16845.97	0.0100	0.4850
+40	2	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	Absorption & Divergence Specialist: Targets price reversals by identifying "absorption" events where	0.9721	12586.25	0.0100	0.4850
+40	3	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	Binance-Weighted Consensus with Funding Squeeze Filter: Combines a high-weight Binance sentiment agg	0.9721	12586.25	0.0100	0.4850
+41	0	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.3459	24131.40	0.0100	0.5050
+41	1	a37e972	Up	1.00	Up	win	0.04	0.0387	variant 1	0.9628	13232.44	0.0100	0.5350
+41	2	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.3459	24131.98	0.0100	0.5050
+41	3	a37e972	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.3459	24133.05	0.0100	0.5050
+42	0	95f3876	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8781	18345.61	0.0100	0.4550
+42	1	95f3876	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.8687	16156.63	0.0100	0.4550
+42	2	95f3876	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.7924	20534.19	0.0100	0.4550
+42	3	95f3876	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9253	16676.24	0.0100	0.4550
+43	0	95f3876	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7151	20020.64	0.0100	0.4950
+43	1	95f3876	Down	1.00	Up	loss	-1.00	-1.0000	Triple-Point Momentum Velocity: Samples at 0s, 15s, and 30s, calculating a smoothed signal to ensure	0.8019	16331.94	0.0100	0.4950
+43	2	95f3876	Up	1.00	Up	win	1.73	1.7294	Volatility-Regime Weighting: Dynamically shifts the strategy's focus between Order Book Imbalance (d	0.3664	25616.45	0.0100	0.5050
+43	3	95f3876	Down	1.00	Up	loss	-1.00	-1.0000	Absorption Divergence Detector: Targets high-probability reversals by identifying "absorption" event	0.7442	18042.49	0.0100	0.4950
+44	0	7b50abd	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8687	24424.75	0.0100	0.4350
+44	1	7b50abd	Down	1.00	Down	win	4.25	4.2458	variant 1	0.1906	22319.44	0.0100	0.5650
+44	2	7b50abd	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8687	24857.17	0.0100	0.4350
+44	3	7b50abd	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.8687	24865.77	0.0100	0.4350
+45	0	1cd28c8	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7054	23780.64	0.0100	0.4950
+45	1	1cd28c8	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.6762	23015.52	0.0200	0.4950
+45	2	1cd28c8	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.5975	22984.66	0.0100	0.4950
+45	3	1cd28c8	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.6271	25491.64	0.0100	0.4950
+46	0	1cd28c8	Down	1.00	Down	win	0.46	0.4579	current best (control)	0.6859	18721.12	0.0100	0.5050
+46	1	1cd28c8	Down	1.00	Down	win	0.62	0.6200	Regime-Adaptive Volatility Scaler: Adjusts the weight of Order Book Imbalance (OBI) versus Signed De	0.6173	18942.76	0.0100	0.5050
+46	2	1cd28c8	Down	1.00	Down	win	0.46	0.4579	Momentum & Funding Sentiment Aggregator: Combines multi-exchange momentum votes with a contrarian fu	0.6859	18613.12	0.0100	0.5050
+46	3	1cd28c8	Down	1.00	Down	win	0.57	0.5699	Delta-OBI Divergence (Absorption) Detector: Specifically looks for "absorption" where aggressive del	0.6370	19492.04	0.0100	0.5050
+47	0	bc8cefe	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7731	22560.41	0.0100	0.4850
+47	1	bc8cefe	Down	1.00	Down	win	2.40	2.3954	Consensus Momentum & Funding Exhaustion: Aggregates OBI, Signed Delta, and Momentum Votes across exc	0.2945	23929.95	0.0400	0.5050
+47	2	bc8cefe	Up	1.00	Down	loss	-1.00	-1.0000	Liquidity Absorption Reversal: Specifically targets "absorption" events where aggressive market orde	0.4375	28820.16	0.0100	0.4850
+47	3	bc8cefe	Down	1.00	Down	win	1.14	1.1376	Triple-Point Velocity Tracker: Uses three sampling points across a 45-second window to calculate the	0.4678	18080.53	0.0400	0.5050
+48	0	ee9454e	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.5180	20988.42	0.0100	0.5050
+48	1	ee9454e	Up	1.00	Up	win	1.52	1.5191	variant 1	0.3970	22872.31	0.0100	0.5250
+48	2	ee9454e	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.5876	17044.10	0.0100	0.5050
+48	3	ee9454e	Up	1.00	Up	win	0.73	0.7309	variant 3	0.5777	21914.94	0.0100	0.5250
+49	0	6852940	Down	1.00	Down	win	0.93	0.9305	current best (control)	0.5180	16744.79	0.0100	0.4950
+49	1	6852940	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.3970	19694.62	0.0100	0.4650
+49	2	6852940	Down	1.00	Down	win	0.73	0.7309	variant 2	0.5777	17413.14	0.0100	0.4950
+49	3	6852940	Down	1.00	Down	win	0.79	0.7925	variant 3	0.5579	16506.71	0.0100	0.4950
+50	0	6852940	Up	1.00	Up	win	0.76	0.7611	current best (control)	0.5678	21826.98	0.0100	0.5450
+50	1	6852940	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5180	22285.93	0.0100	0.4550
+50	2	6852940	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4779	21618.60	0.0100	0.4550
+50	3	6852940	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4980	21199.69	0.0100	0.4550
+51	0	6852940	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0853	17521.17	0.0100	0.4950
+51	1	6852940	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.3562	17071.46	0.0100	0.4950
+51	2	6852940	Down	1.00	Down	win	0.09	0.0918	variant 2	0.9159	13371.67	0.0100	0.5350
+51	3	6852940	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.1381	21125.82	0.0100	0.4950
+52	0	b9f10d7	Down	1.00	Down	win	0.13	0.1266	current best (control)	0.8876	14958.36	0.0100	0.5750
+52	1	b9f10d7	Down	1.00	Down	win	0.14	0.1388	variant 1	0.8781	15427.54	0.0100	0.5750
+52	2	b9f10d7	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.2635	24816.85	0.0100	0.4350
+52	3	b9f10d7	Down	1.00	Down	win	0.13	0.1266	variant 3	0.8876	19087.13	0.0100	0.5750
+53	0	305bbd9	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.5080	24807.59	0.0100	0.4950
+53	1	305bbd9	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.4577	23942.63	0.0100	0.4950
+53	2	305bbd9	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.3357	28777.25	0.0100	0.4950
+53	3	305bbd9	Up	1.00	Up	win	0.08	0.0807	variant 3	0.9253	19585.80	0.0100	0.5050
+54	0	0327dc4	Down	1.00	Down	win	0.73	0.7309	current best (control)	0.5777	27398.68	0.0100	0.6250
+54	1	0327dc4	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7248	21611.55	0.0100	0.3800
+54	2	0327dc4	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.4879	26525.83	0.0300	0.3800
+54	3	0327dc4	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.4879	26525.83	0.0300	0.3800
+55	0	0327dc4	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.2219	26215.99	0.0100	0.4750
+55	1	0327dc4	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.2531	26943.77	0.0100	0.4750
+55	2	0327dc4	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.2531	26929.79	0.0100	0.4750
+55	3	0327dc4	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.1170	22866.59	0.0100	0.4750
+56	0	0327dc4	Up	1.00	Up	win	0.38	0.3796	current best (control)	0.7248	19384.41	0.0100	0.5350
+56	1	0327dc4	Up	1.00	Up	win	0.19	0.1903	variant 1	0.8402	15669.58	0.0100	0.5350
+56	2	0327dc4	Up	1.00	Up	win	0.48	0.4789	variant 2	0.6762	19038.50	0.0100	0.5350
+56	3	0327dc4	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.3664	20944.47	0.0100	0.4550
+57	0	09959c0	Up	1.00	Up	win	0.15	0.1512	current best (control)	0.8687	21110.17	0.0100	0.5550
+57	1	09959c0	Up	1.00	Up	win	0.14	0.1388	variant 1	0.8781	20824.45	0.0100	0.5550
+57	2	09959c0	Up	1.00	Up	win	0.15	0.1512	variant 2	0.8687	21516.78	0.0100	0.5550
+57	3	09959c0	Up	1.00	Up	win	0.13	0.1266	variant 3	0.8876	16288.31	0.0100	0.5550
+58	0	09959c0	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6957	23379.28	0.0100	0.4750
+58	1	09959c0	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.6762	24251.42	0.0100	0.4750
+58	2	09959c0	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.5678	22452.65	0.0200	0.4750
+58	3	09959c0	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.5678	28696.68	0.0100	0.4750
+59	0	09959c0	Up	1.00	Up	win	0.09	0.0918	current best (control)	0.9159	19702.79	0.0100	0.5250
+59	1	09959c0	Down	1.00	Up	loss	-1.00	-1.0000	Regime-Adaptive Weighting: Dynamically shifts priority between Order Book Imbalance (OBI) and aggres	0.1487	25264.16	0.0100	0.4750
+59	2	09959c0	Up	1.00	Up	win	0.06	0.0593	Absorption-Reversal Specialist: Targets high-probability reversals by identifying "absorption" event	0.9441	16721.40	0.0100	0.5250
+59	3	09959c0	Up	1.00	Up	win	1.34	1.3396	Delta-Momentum Velocity: Uses multi-stage sampling to calculate the "velocity" (rate of change) of a	0.4274	19883.21	0.0200	0.5250
+60	0	dff8300	Up	1.00	Up	win	30.16	30.1573	current best (control)	0.0321	25299.44	0.0100	0.5350
+60	1	dff8300	Up	1.00	Up	win	10.72	10.7234	variant 1	0.0853	28970.54	0.0100	0.5350
+60	2	dff8300	Up	1.00	Up	win	14.61	14.6102	variant 2	0.0641	28966.62	0.0100	0.5350
+60	3	dff8300	Up	1.00	Up	win	17.72	17.7196	variant 3	0.0534	28955.79	0.0100	0.5350
+61	0	dff8300	Up	1.00	Up	win	0.62	0.6200	current best (control)	0.6173	25050.54	0.0100	0.5800
+61	1	dff8300	Up	1.00	Up	win	0.65	0.6463	variant 1	0.6074	28686.59	0.0100	0.5800
+61	2	dff8300	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4375	31729.28	0.0100	0.3950
+61	3	dff8300	Up	1.00	Up	win	0.67	0.6735	variant 3	0.5975	30976.69	0.0100	0.5800
+62	0	c6ed3ea	Up	1.00	Up	win	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.5250
+62	1	c6ed3ea	Up	1.00	Up	win	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.5250
+62	2	c6ed3ea	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.0214	25022.80	0.0100	0.4750
+62	3	c6ed3ea	Up	1.00	Up	win	0.01	0.0094	variant 3	0.9907	9028.06	0.0100	0.5250
+63	0	145cbbf	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7345	28956.59	0.0100	0.4750
+63	1	145cbbf	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7345	28976.75	0.0100	0.4750
+63	2	145cbbf	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8019	25720.68	0.0100	0.4750
+63	3	145cbbf	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7345	28976.75	0.0100	0.4750
+64	0	145cbbf	Down	1.00	Down	win	0.89	0.8940	current best (control)	0.5280	34251.03	0.0200	0.5150
+64	1	145cbbf	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.6370	27158.18	0.0100	0.4850
+64	2	145cbbf	Down	1.00	Down	win	0.89	0.8940	variant 2	0.5280	34251.03	0.0200	0.5150
+64	3	145cbbf	Down	1.00	Down	win	0.93	0.9305	variant 3	0.5180	34469.77	0.0100	0.5150
+65	0	073d4fa	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.3562	29620.29	0.0100	0.4550
+65	1	073d4fa	Up	1.00	Up	win	0.42	0.4176	variant 1	0.7054	26541.31	0.0100	0.5000
+65	2	073d4fa	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.3562	30112.96	0.0100	0.4550
+65	3	073d4fa	Up	1.00	Up	win	0.46	0.4579	variant 3	0.6859	31710.06	0.0100	0.5000
+66	0	592cb80	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7635	33804.33	0.0100	0.4150
+66	1	592cb80	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.8306	25181.72	0.0100	0.4150
+66	2	592cb80	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.7635	33807.33	0.0100	0.4150
+66	3	592cb80	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7635	33749.96	0.0100	0.4150
+67	0	592cb80	Down	1.00	Down	win	0.05	0.0489	current best (control)	0.9534	19558.30	0.0100	0.5400
+67	1	592cb80	Down	1.00	Down	win	0.03	0.0287	variant 1	0.9721	12993.66	0.0100	0.5400
+67	2	592cb80	Down	1.00	Down	win	0.05	0.0489	variant 2	0.9534	19558.30	0.0100	0.5400
+67	3	592cb80	Down	1.00	Down	win	0.05	0.0489	variant 3	0.9534	19558.30	0.0100	0.5400
+68	0	592cb80	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9253	24960.14	0.0100	0.4650
+68	1	592cb80	Up	1.00	Up	win	45.70	45.7045	variant 1	0.0214	23352.02	0.0100	0.5350
+68	2	592cb80	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9253	24934.39	0.0100	0.4650
+68	3	592cb80	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9253	24960.14	0.0100	0.4650
+69	0	eb01dbf	Up	1.00	Up	win	4.55	4.5506	current best (control)	0.1802	25309.07	0.0300	0.5650
+69	1	eb01dbf	Up	1.00	Up	win	9.43	9.4279	variant 1	0.0959	25010.51	0.0100	0.5650
+69	2	eb01dbf	Up	1.00	Up	win	3.97	3.9731	variant 2	0.2011	25338.61	0.0100	0.5650
+69	3	eb01dbf	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9628	10162.67	0.0100	0.4350
+70	0	085dda2	Up	1.00	Up	win	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.5050
+70	1	085dda2	Up	1.00	Up	win	0.00	0.0000	from typing import Callable	0.0000	0.00	0.0000	0.5050
+70	2	085dda2	Up	1.00	Up	win	0.00	0.0000	from typing import Callable	0.0000	0.00	0.0000	0.5050
+70	3	085dda2	Down	1.00	Up	loss	-1.00	-1.0000	from typing import Callable	0.0428	27131.58	0.0100	0.4950
+71	0	085dda2	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7539	26091.86	0.0100	0.4750
+71	1	085dda2	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.8876	16744.28	0.0100	0.4750
+71	2	085dda2	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7054	31571.44	0.0100	0.4750
+71	3	085dda2	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.7054	31582.24	0.0100	0.4750
+72	0	085dda2	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7924	18433.36	0.0300	0.4750
+72	1	085dda2	Up	1.00	Down	loss	-1.00	-1.0000	Trend-Absorption Hybrid (Uses the product of Delta and OBI to distinguish between trend continuation	0.9065	14900.22	0.0300	0.4750
+72	2	085dda2	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Specific Feature Switching (Switches between momentum-based signals in high volatility and or	0.9065	22334.09	0.0100	0.4750
+72	3	085dda2	Down	1.00	Down	win	2.65	2.6516	Delta Velocity Tracker (Uses multi-stage sampling to calculate the acceleration of aggressive trade 	0.2739	22380.22	0.0100	0.5250
+73	0	d45b0f4	Up	1.00	Up	win	0.07	0.0699	current best (control)	0.9347	14401.19	0.0100	0.5150
+73	1	d45b0f4	Up	1.00	Up	win	0.07	0.0699	variant 1	0.9347	14381.66	0.0100	0.5150
+73	2	d45b0f4	Up	1.00	Up	win	0.08	0.0807	variant 2	0.9253	19210.84	0.0100	0.5150
+73	3	d45b0f4	Up	1.00	Up	win	0.08	0.0807	variant 3	0.9253	19198.83	0.0100	0.5150
+74	0	b81ec9c	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8687	21443.82	0.0100	0.4450
+74	1	b81ec9c	Up	1.00	Down	loss	-1.00	-1.0000	Weighted Multi-Signal Consensus: Combines OBI, Signed Delta, and Momentum into a single score, dynam	0.8687	21372.10	0.0100	0.4450
+74	2	b81ec9c	Down	1.00	Down	win	10.72	10.7234	Temporal Delta Velocity: Uses temporal sampling to measure the "acceleration" of aggressive trade fl	0.0853	28507.23	0.0300	0.5350
+74	3	b81ec9c	Up	1.00	Down	loss	-1.00	-1.0000	Signal Convergence Filter: A conservative strategy that seeks alignment between Order Book Imbalance	0.8687	21330.77	0.0100	0.4450
+75	0	48aee60	Down	1.00	Down	win	2.28	2.2806	current best (control)	0.3048	27303.21	0.0100	0.5850
+75	1	48aee60	CRASH	0.00	Down	crash	0.00	0.0000	Binance-Weighted Velocity: Increases the influence of Binance (the highest liquidity exchange) on th	0.0000	0.00	0.0000	0.0000
+75	2	48aee60	Down	1.00	Down	win	2.28	2.2806	Regime-Adaptive Signal Switching: Dynamically adjusts the weighting of features based on the `Volati	0.3048	27184.99	0.0100	0.5850
+75	3	48aee60	Up	1.00	Down	loss	-1.00	-1.0000	Multi-Exchange Consensus: Replaces arithmetic averaging with a "voting" mechanism, requiring a conse	0.6468	26528.36	0.0100	0.4150
+76	0	48aee60	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9721	8076.62	0.0100	0.4550
+76	1	48aee60	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9721	8076.62	0.0100	0.4550
+76	2	48aee60	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9721	8104.75	0.0100	0.4550
+76	3	48aee60	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9721	8056.54	0.0100	0.4550
+77	0	48aee60	Down	1.00	Down	win	0.26	0.2621	current best (control)	0.7924	15133.43	0.0100	0.5350
+77	1	48aee60	Down	1.00	Down	win	0.05	0.0489	variant 1	0.9534	8912.12	0.0200	0.5350
+77	2	48aee60	Down	1.00	Down	win	0.09	0.0918	variant 2	0.9159	13407.98	0.0100	0.5350
+77	3	48aee60	Down	1.00	Down	win	0.07	0.0699	variant 3	0.9347	12760.85	0.0100	0.5350
+78	0	48aee60	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9907	6649.61	0.0100	0.4550
+78	1	48aee60	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9907	10069.87	0.0100	0.4550
+78	2	48aee60	Up	1.00	Up	win	45.70	45.7045	variant 2	0.0214	20337.32	0.0100	0.5550
+78	3	48aee60	Up	1.00	Up	win	92.35	92.3463	variant 3	0.0107	18351.27	0.0000	0.5550
+79	0	3545228	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0214	20313.44	0.0100	0.4950
+79	1	3545228	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Hybrid: Dynamically adjusts the weighting between Order Book Imbalance (OBI) and Sig	0.0214	22421.19	0.0100	0.4950
+79	2	3545228	Up	1.00	Down	loss	-1.00	-1.0000	Exchange-Weighted Consensus: Prioritizes signals from Binance (due to higher liquidity) and requires	0.0853	24481.86	0.0100	0.4950
+79	3	3545228	Up	1.00	Down	loss	-1.00	-1.0000	Delta-OBI Divergence (Absorption Specialist): Targets high-probability reversals by identifying "abs	0.0214	22421.39	0.0100	0.4950
+80	0	3545228	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9253	13870.07	0.0100	0.4650
+80	1	3545228	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9907	7482.23	0.0100	0.4650
+80	2	3545228	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9907	6954.26	0.0100	0.4650
+80	3	3545228	CRASH	0.00	Up	crash	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.0000
+81	0	3545228	Up	1.00	Up	win	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.5300
+81	1	3545228	Up	1.00	Up	win	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.5300
+81	2	3545228	Up	1.00	Up	win	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.5300
+81	3	3545228	Up	1.00	Up	win	0.05	0.0489	variant 3	0.9534	15687.56	0.0100	0.5300
+82	0	4a0c6ca	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6566	27866.98	0.0100	0.4850
+82	1	4a0c6ca	Up	1.00	Up	win	2.80	2.7951	variant 1	0.2635	26822.00	0.0200	0.5150
+82	2	4a0c6ca	Up	1.00	Up	win	1.59	1.5854	variant 2	0.3868	28655.93	0.0100	0.5150
+82	3	4a0c6ca	Up	1.00	Up	win	1.59	1.5854	variant 3	0.3868	28642.05	0.0100	0.5150
+83	0	ac024c8	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8306	19183.30	0.0100	0.4250
+83	1	ac024c8	Down	1.00	Up	loss	-1.00	-1.0000	Triple-Sample Velocity & Momentum Consensus	0.8592	14999.11	0.0100	0.4250
+83	2	ac024c8	CRASH	0.00	Up	crash	0.00	0.0000	Volatility-Regime Dual-Logic	0.0000	0.00	0.0000	0.0000
+83	3	ac024c8	Down	1.00	Up	loss	-1.00	-1.0000	Funding-Weighted Exhaustion Specialist	0.8306	19188.00	0.0100	0.4250
+84	0	ac024c8	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.0641	24984.46	0.0100	0.5000
+84	1	ac024c8	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0747	25770.68	0.0100	0.5000
+84	2	ac024c8	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.0534	22375.20	0.0100	0.5000
+84	3	ac024c8	Up	1.00	Up	win	0.14	0.1388	variant 3	0.8781	23280.72	0.0100	0.5050
+85	0	ddd9cd7	Down	1.00	Down	win	1.09	1.0926	current best (control)	0.4779	27247.57	0.0100	0.5050
+85	1	ddd9cd7	CRASH	0.00	Down	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+85	2	ddd9cd7	Down	1.00	Down	win	2.17	2.1734	variant 2	0.3151	25537.51	0.0100	0.5050
+85	3	ddd9cd7	Down	1.00	Down	win	1.09	1.0926	variant 3	0.4779	27247.57	0.0100	0.5050
+86	0	f2a463b	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9441	16568.92	0.0100	0.4850
+86	1	f2a463b	Up	1.00	Up	win	12.39	12.3892	variant 1	0.0747	26156.77	0.0100	0.5050
+86	2	f2a463b	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9441	16424.85	0.0100	0.4850
+86	3	f2a463b	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9441	16523.10	0.0100	0.4850
+87	0	597885e	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6370	22323.45	0.0100	0.4350
+87	1	597885e	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.6370	22355.06	0.0100	0.4350
+87	2	597885e	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.6370	22346.32	0.0100	0.4350
+87	3	597885e	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4678	24308.03	0.0100	0.4350
+88	0	597885e	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.0214	17586.78	0.0100	0.4250
+88	1	597885e	Up	1.00	Up	win	0.01	0.0094	variant 1	0.9907	7890.22	0.0100	0.5700
+88	2	597885e	Up	1.00	Up	win	0.11	0.1148	variant 2	0.8970	20290.37	0.0100	0.5700
+88	3	597885e	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.0214	17819.00	0.0100	0.4250
+89	0	1404410	Down	1.00	Down	win	1.52	1.5191	current best (control)	0.3970	26130.83	0.0100	0.5550
+89	1	1404410	Down	1.00	Down	win	1.52	1.5191	variant 1	0.3970	25634.09	0.0100	0.5550
+89	2	1404410	Down	1.00	Down	win	1.89	1.8908	variant 2	0.3459	24724.11	0.0100	0.5550
+89	3	1404410	Down	1.00	Down	win	1.52	1.5191	variant 3	0.3970	26127.50	0.0100	0.5550
+90	0	2471f68	Down	1.00	Down	win	14.61	14.6102	current best (control)	0.0641	22944.84	0.0100	0.5150
+90	1	2471f68	Down	1.00	Down	win	14.61	14.6102	variant 1	0.0641	23456.42	0.0100	0.5150
+90	2	2471f68	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9721	12550.23	0.0100	0.4850
+90	3	2471f68	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9721	12550.23	0.0100	0.4850
+91	0	2471f68	Up	1.00	Down	loss	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.4600
+91	1	2471f68	Up	1.00	Down	loss	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.4600
+91	2	2471f68	Up	1.00	Down	loss	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.4600
+91	3	2471f68	Up	1.00	Down	loss	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.4600
+92	0	2471f68	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.1802	25908.95	0.0100	0.4850
+92	1	2471f68	Down	1.00	Down	win	0.59	0.5946	variant 1	0.6271	23341.05	0.0200	0.5150
+92	2	2471f68	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.4577	31818.21	0.0400	0.4850
+92	3	2471f68	Down	1.00	Down	win	0.62	0.6200	variant 3	0.6173	23533.30	0.0400	0.5150
+93	0	fd75181	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8592	27308.39	0.0100	0.4950
+93	1	fd75181	Down	1.00	Down	win	5.28	5.2822	Weighted Multi-Exchange Scoring: Replaces binary voting with a weighted aggregate score, giving Bina	0.1592	27087.46	0.0100	0.5050
+93	2	fd75181	Down	1.00	Down	win	10.72	10.7234	Temporal Delta Velocity: Uses `sleep` to measure the acceleration of `Signed Delta`, identifying hig	0.0853	22331.31	0.0100	0.5050
+93	3	fd75181	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Momentum: Switches signal logic based on `Volatility Regime`, prioritizing `Momentum	0.8687	27306.69	0.0200	0.4950
+94	0	2703973	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.3357	23573.96	0.0100	0.4250
+94	1	2703973	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.3357	23569.00	0.0100	0.4250
+94	2	2703973	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.3357	23573.96	0.0100	0.4250
+94	3	2703973	Down	1.00	Down	win	0.11	0.1148	variant 3	0.8970	20622.61	0.0100	0.5450
+95	0	0afb2b5	Up	1.00	Up	win	0.55	0.5461	current best (control)	0.6468	35202.37	0.0100	0.5350
+95	1	0afb2b5	Down	1.00	Up	loss	-1.00	-1.0000	Temporal Delta Acceleration (Captures the change in trade flow velocity over a 30-second window to i	0.4071	27330.83	0.0100	0.4650
+95	2	0afb2b5	Up	1.00	Up	win	0.55	0.5461	Volatility-Regime Feature Switcher (Adjusts logic based on market regime: uses Momentum in high vola	0.6468	35205.52	0.0100	0.5350
+95	3	0afb2b5	Down	1.00	Up	loss	-1.00	-1.0000	Triple-Signal Momentum Consensus (Aggregates OBI, Delta, and Candle Momentum across all exchanges in	0.3970	33191.25	0.0100	0.4650
+96	0	0afb2b5	Up	1.00	Up	win	0.07	0.0699	current best (control)	0.9347	24277.45	0.0100	0.5550
+96	1	0afb2b5	Up	1.00	Up	win	0.01	0.0094	variant 1	0.9907	12590.74	0.0100	0.5550
+96	2	0afb2b5	Up	1.00	Up	win	0.07	0.0699	variant 2	0.9347	24228.06	0.0100	0.5550
+96	3	0afb2b5	Up	1.00	Up	win	0.07	0.0699	variant 3	0.9347	23934.06	0.0100	0.5550
+97	0	0afb2b5	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7635	26960.60	0.0100	0.4750
+97	1	0afb2b5	Up	1.00	Down	loss	-1.00	-1.0000	Temporal Delta/OBI Acceleration (Uses `sleep` to calculate the rate of change in Order Book Imbalanc	0.9347	17314.02	0.0100	0.4750
+97	2	0afb2b5	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Feature Switcher (Dynamically shifts feature priority between OBI and Momentum based	0.7635	27217.10	0.0100	0.4750
+97	3	0afb2b5	Up	1.00	Down	loss	-1.00	-1.0000	Multi-Exchange Momentum Consensus (Uses a weighted voting mechanism that requires alignment between 	0.7635	27162.19	0.0100	0.4750
+98	0	0afb2b5	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.1276	27191.58	0.0100	0.4750
+98	1	0afb2b5	Down	1.00	Down	win	0.02	0.0189	variant 1	0.9814	11248.15	0.0100	0.5250
+98	2	0afb2b5	Down	1.00	Down	win	0.11	0.1148	variant 2	0.8970	25765.32	0.0100	0.5250
+98	3	0afb2b5	Down	1.00	Down	win	0.11	0.1148	variant 3	0.8970	25786.94	0.0100	0.5250
+99	0	0064eb4	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9814	20129.35	0.0100	0.4350
+99	1	0064eb4	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9907	16828.75	0.0100	0.4350
+99	2	0064eb4	Down	1.00	Down	win	30.16	30.1573	variant 2	0.0321	21117.03	0.0100	0.5450
+99	3	0064eb4	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9814	20109.80	0.0100	0.4350
+100	0	67d7549	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8970	37434.32	0.0100	0.4650
+100	1	67d7549	Down	1.00	Down	win	3.97	3.9731	variant 1	0.2011	24676.34	0.0100	0.5350
+100	2	67d7549	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8970	37250.10	0.0100	0.4650
+100	3	67d7549	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.8970	36800.42	0.0100	0.4650
+101	0	18b380f	Up	1.00	Up	win	0.89	0.8940	current best (control)	0.5280	24812.22	0.0300	0.5400
+101	1	18b380f	Up	1.00	Up	win	1.09	1.0926	variant 1	0.4779	24971.65	0.0100	0.5400
+101	2	18b380f	Up	1.00	Up	win	1.52	1.5191	variant 2	0.3970	24561.17	0.0100	0.5400
+101	3	18b380f	Up	1.00	Up	win	2.17	2.1734	variant 3	0.3151	26020.96	0.0100	0.5400
+102	0	133155c	Down	1.00	Down	win	0.34	0.3437	current best (control)	0.7442	31885.92	0.0100	0.5650
+102	1	133155c	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.3868	39575.28	0.0100	0.4350
+102	2	133155c	Down	1.00	Down	win	0.36	0.3614	variant 2	0.7345	31873.38	0.0100	0.5650
+102	3	133155c	Down	1.00	Down	win	0.34	0.3437	variant 3	0.7442	31537.83	0.0100	0.5650
+103	0	f004299	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7731	34590.86	0.0100	0.3950
+103	1	f004299	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.8402	29067.89	0.0100	0.3950
+103	2	f004299	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7731	34507.89	0.0100	0.3950
+103	3	f004299	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.7731	34616.04	0.0100	0.3950
+104	0	f004299	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9065	22039.87	0.0200	0.4750
+104	1	f004299	Down	1.00	Down	win	5.73	5.7264	variant 1	0.1487	25398.08	0.0200	0.5250
+104	2	f004299	Down	1.00	Down	win	7.54	7.5434	variant 2	0.1170	29332.54	0.0100	0.5250
+104	3	f004299	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9065	22039.87	0.0100	0.4750
+105	0	d92c868	Down	1.00	Down	win	0.89	0.8940	current best (control)	0.5280	42876.08	0.0200	0.5250
+105	1	d92c868	Down	1.00	Down	win	0.89	0.8940	variant 1	0.5280	42891.95	0.0200	0.5250
+105	2	d92c868	Down	1.00	Down	win	0.40	0.3984	variant 2	0.7151	35106.62	0.0100	0.5250
+105	3	d92c868	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.5280	39199.00	0.0100	0.4750
+106	0	d92c868	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9065	35063.65	0.0100	0.3950
+106	1	d92c868	Down	1.00	Up	loss	-1.00	-1.0000	Momentum Convergence Strategy: Aggregates OBI, Delta, and Momentum Votes, increasing weight on momen	0.9065	35063.65	0.0100	0.3950
+106	2	d92c868	Down	1.00	Up	loss	-1.00	-1.0000	Funding-Exhaustion Contrarian: Targets reversals by identifying when extreme funding rates (perp mar	0.9065	34793.80	0.0100	0.3950
+106	3	d92c868	Down	1.00	Up	loss	-1.00	-1.0000	Temporal Delta Velocity: Uses `sleep` to capture the first derivative (velocity) of aggressive trade	0.9907	12182.69	0.0100	0.3950
+107	0	d92c868	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8115	32762.08	0.0100	0.4450
+107	1	d92c868	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9534	14603.24	0.0100	0.4450
+107	2	d92c868	Down	1.00	Down	win	3.51	3.5056	variant 2	0.2219	30672.18	0.0100	0.5650
+107	3	d92c868	Down	1.00	Down	win	3.51	3.5056	variant 3	0.2219	30672.63	0.0100	0.5650
+108	0	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8592	28069.02	0.0100	0.4150
+108	1	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9347	17925.48	0.0100	0.4150
+108	2	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8592	27887.43	0.0100	0.4150
+108	3	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8592	28069.02	0.0100	0.4150
+109	0	4efc80b	Down	1.00	Down	win	0.83	0.8250	current best (control)	0.5479	37541.29	0.0100	0.5300
+109	1	4efc80b	Down	1.00	Down	win	0.25	0.2470	variant 1	0.8019	26847.77	0.0100	0.5300
+109	2	4efc80b	Down	1.00	Down	win	0.83	0.8250	variant 2	0.5479	37562.47	0.0100	0.5300
+109	3	4efc80b	Down	1.00	Down	win	0.83	0.8250	variant 3	0.5479	37493.41	0.0100	0.5300
+110	0	4efc80b	Up	1.00	Up	win	17.72	17.7196	current best (control)	0.0534	31655.63	0.0100	0.5450
+110	1	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	Temporal Delta Velocity: Uses `sleep` to measure the acceleration (first derivative) of trade flow t	0.9814	23796.43	0.0100	0.4650
+110	2	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	Funding-Exhaustion Divergence: Targets high-ROI reversal trades by identifying when extreme perp fun	0.9628	30715.46	0.0100	0.4650
+110	3	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	Weighted Multi-Exchange Consensus: Reduces noise in high-volatility regimes by requiring weighted al	0.9628	30655.02	0.0100	0.4650
+111	0	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9534	17712.05	0.0100	0.4750
+111	1	4efc80b	Up	1.00	Up	win	30.16	30.1573	variant 1	0.0321	24915.94	0.0100	0.5450
+111	2	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9534	17712.05	0.0100	0.4750
+111	3	4efc80b	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9534	17712.05	0.0100	0.4750
+112	0	d57e76a	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.3868	27836.01	0.0100	0.4150
+112	1	d57e76a	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.1697	27669.50	0.0100	0.4150
+112	2	d57e76a	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4476	25960.36	0.0400	0.4150
+112	3	d57e76a	Up	1.00	Up	win	0.19	0.1903	variant 3	0.8402	27775.56	0.0100	0.5750
+113	0	75e80d6	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9721	16558.39	0.0100	0.4950
+113	1	75e80d6	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9907	9357.62	0.0100	0.4950
+113	2	75e80d6	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9628	21082.89	0.0100	0.4950
+113	3	75e80d6	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9721	16456.66	0.0100	0.4950
+114	0	75e80d6	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.6664	36288.03	0.0100	0.4550
+114	1	75e80d6	Up	1.00	Down	loss	-1.00	-1.0000	Regime-Adaptive Divergence: Adjusts the weight of funding-rate-based mean reversion versus momentum-	0.6664	36252.33	0.0100	0.4550
+114	2	75e80d6	Up	1.00	Down	loss	-1.00	-1.0000	Temporal Momentum Acceleration: Uses a short `sleep` window to calculate the velocity (rate of chang	0.6173	32574.13	0.0100	0.4550
+114	3	75e80d6	Down	1.00	Down	win	1.66	1.6554	Cross-Exchange Directional Consensus: Implements a strict directional agreement requirement where ea	0.3766	30901.75	0.0100	0.5450
+115	0	9706a52	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6173	34684.41	0.0100	0.4500
+115	1	9706a52	Down	1.00	Up	loss	-1.00	-1.0000	Temporal Momentum Acceleration: Uses a 30-second observation window to detect if trade flow (Delta) 	0.6074	28390.04	0.0100	0.4500
+115	2	9706a52	Down	1.00	Up	loss	-1.00	-1.0000	Regime-Adaptive Mean Reversion: Implements a dual-logic system that trades mean-reversion on extreme	0.6173	34737.67	0.0100	0.4500
+115	3	9706a52	Down	1.00	Up	loss	-1.00	-1.0000	Continuous Weighted Sentiment: Replaces the fragile multiplicative alignment signal with a continuou	0.6173	34737.67	0.0100	0.4500
+116	0	9706a52	Up	1.00	Up	win	3.12	3.1194	current best (control)	0.2428	30643.57	0.0100	0.6150
+116	1	9706a52	Up	1.00	Up	win	0.59	0.5946	variant 1	0.6271	27169.99	0.0100	0.6150
+116	2	9706a52	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7924	33425.67	0.0100	0.3850
+116	3	9706a52	Up	1.00	Up	win	3.12	3.1194	variant 3	0.2428	30668.76	0.0100	0.6150
+117	0	9706a52	Down	1.00	Down	win	3.51	3.5056	current best (control)	0.2219	25530.37	0.0100	0.5300
+117	1	9706a52	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9628	15794.10	0.0100	0.4600
+117	2	9706a52	Down	1.00	Down	win	3.51	3.5056	variant 2	0.2219	25203.28	0.0100	0.5300
+117	3	9706a52	Down	1.00	Down	win	3.51	3.5056	variant 3	0.2219	25528.30	0.0100	0.5300
+118	0	9706a52	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9721	13489.59	0.0100	0.4150
+118	1	9706a52	Down	1.00	Down	win	45.70	45.7045	variant 1	0.0214	19643.63	0.0100	0.5850
+118	2	9706a52	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9721	13489.59	0.0100	0.4150
+118	3	9706a52	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9721	13494.50	0.0100	0.4150
+119	0	93deb5d	Up	1.00	Up	win	0.42	0.4176	current best (control)	0.7054	75443.87	0.0100	0.6950
+119	1	93deb5d	Up	1.00	Up	win	0.42	0.4176	Weighted Consensus Momentum (Weights Binance more heavily and tracks the velocity of the weighted ag	0.7054	75439.97	0.0100	0.6950
+119	2	93deb5d	Down	1.00	Up	loss	0.00	0.0000	Regime-Adaptive Mean Reversion (Uses extreme funding rates and OBI as reversal signals in high-volat	0.0000	0.00	0.0000	0.3050
+119	3	93deb5d	Up	1.00	Up	win	92.35	92.3463	Delta-OBI Absorption (Detects "absorption" by identifying when aggressive trade flow (Delta) is movi	0.0107	17933.26	0.0000	0.6950
+120	0	8edd097	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8592	17579.19	0.0100	0.3950
+120	1	8edd097	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9534	14370.78	0.0100	0.3950
+120	2	8edd097	CRASH	0.00	Down	crash	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.0000
+120	3	8edd097	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9534	14373.76	0.0100	0.3950
+121	0	8edd097	Down	1.00	Down	win	0.62	0.6200	current best (control)	0.6173	21572.89	0.0100	0.5900
+121	1	8edd097	Down	1.00	Down	win	0.67	0.6735	variant 1	0.5975	21832.62	0.0100	0.5900
+121	2	8edd097	Down	1.00	Down	win	0.62	0.6200	variant 2	0.6173	21531.97	0.0100	0.5900
+121	3	8edd097	Down	1.00	Down	win	0.70	0.7017	variant 3	0.5876	22337.10	0.0300	0.5900
+1	0	68c9d8c	Up	1.00	Up	win	0.59	0.5946	current best (control)	0.6271	32650.36	0.0100	0.7050
+1	1	68c9d8c	Up	1.00	Up	win	0.67	0.6735	variant 1	0.5975	32386.96	0.0100	0.7050
+1	2	68c9d8c	Up	1.00	Up	win	0.67	0.6735	variant 2	0.5975	32306.02	0.0100	0.7050
+1	3	68c9d8c	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.2739	32177.15	0.0100	0.2950
+2	0	8089f60	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.4879	71261.97	0.0100	0.4550
+2	1	8089f60	CRASH	0.00	Down	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+2	2	8089f60	Down	1.00	Down	win	0.79	0.7925	variant 2	0.5579	72176.43	0.0100	0.5450
+2	3	8089f60	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.4879	71659.20	0.0100	0.4550
+3	0	0d97d04	Up	1.00	Up	win	5.73	5.7264	current best (control)	0.1487	17784.01	0.0100	0.5150
+3	1	0d97d04	Up	1.00	Up	win	8.90	8.8997	variant 1	0.1010	17095.13	0.0200	0.5150
+3	2	0d97d04	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.8781	16149.80	0.0100	0.4850
+3	3	0d97d04	Down	1.00	Up	loss	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.4850
+4	0	446154f	Up	1.00	Up	win	92.35	92.3463	current best (control)	0.0107	19441.30	0.0000	0.5950
+4	1	446154f	Up	1.00	Up	win	92.35	92.3463	variant 1	0.0107	19442.15	0.0000	0.5950
+4	2	446154f	Up	1.00	Up	win	92.35	92.3463	variant 2	0.0107	15103.25	0.0000	0.5950
+4	3	446154f	Up	1.00	Up	win	92.35	92.3463	variant 3	0.0107	19437.15	0.0000	0.5950
+5	0	446154f	Down	1.00	Down	win	12.39	12.3892	current best (control)	0.0747	22328.49	0.0100	0.5650
+5	1	446154f	Down	1.00	Down	win	12.39	12.3892	variant 1	0.0747	22329.12	0.0100	0.5650
+5	2	446154f	Down	1.00	Down	win	45.70	45.7045	variant 2	0.0214	17540.48	0.0100	0.5650
+5	3	446154f	Down	1.00	Down	win	12.39	12.3892	variant 3	0.0747	22827.18	0.0100	0.5650
+6	0	fdae1e2	Up	1.00	Down	loss	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.4650
+6	1	fdae1e2	Up	1.00	Down	loss	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.4650
+6	2	fdae1e2	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.9534	11906.30	0.0100	0.4650
+6	3	fdae1e2	Down	1.00	Down	win	14.61	14.6102	variant 3	0.0641	22351.99	0.0100	0.5350
+7	0	7d0dd7e	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.0853	24944.60	0.0100	0.4550
+7	1	7d0dd7e	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0853	27384.69	0.0100	0.4550
+7	2	7d0dd7e	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.0641	22733.96	0.0100	0.4550
+7	3	7d0dd7e	Up	1.00	Up	win	0.07	0.0699	variant 3	0.9347	20425.17	0.0100	0.5450
+8	0	fc6b610	Up	1.00	Up	win	1.14	1.1376	current best (control)	0.4678	33831.55	0.0100	0.5150
+8	1	fc6b610	Up	1.00	Up	win	1.14	1.1376	variant 1	0.4678	33763.64	0.0100	0.5150
+8	2	fc6b610	Up	1.00	Up	win	1.14	1.1376	variant 2	0.4678	33717.14	0.0100	0.5150
+8	3	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.6566	29205.03	0.0100	0.4750
+9	0	fc6b610	Up	1.00	Up	win	3.12	3.1194	current best (control)	0.2428	31274.20	0.0100	0.5150
+9	1	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.7924	33148.67	0.0100	0.4900
+9	2	fc6b610	Up	1.00	Up	win	3.12	3.1194	variant 2	0.2428	30965.62	0.0100	0.5150
+9	3	fc6b610	Up	1.00	Up	win	2.28	2.2806	variant 3	0.3048	33155.83	0.0100	0.5150
+10	0	fc6b610	Up	1.00	Up	win	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.5550
+10	1	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0107	11504.56	0.0000	0.4450
+10	2	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.0107	18068.30	0.0000	0.4450
+10	3	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.0107	18574.06	0.0000	0.4450
+11	0	fc6b610	Up	1.00	Up	win	0.93	0.9305	current best (control)	0.5180	36230.83	0.0100	0.4950
+11	1	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5280	34567.87	0.0100	0.4550
+11	2	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.5280	34702.17	0.0100	0.4550
+11	3	fc6b610	Up	1.00	Up	win	0.79	0.7925	variant 3	0.5579	30826.86	0.0100	0.4950
+12	0	fc6b610	Up	1.00	Up	win	0.28	0.2775	current best (control)	0.7828	22970.63	0.0100	0.5600
+12	1	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.2531	26247.82	0.0100	0.3900
+12	2	fc6b610	Up	1.00	Up	win	0.76	0.7611	variant 2	0.5678	25785.84	0.0100	0.5600
+12	3	fc6b610	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.2531	26234.67	0.0100	0.3900
+13	0	d653d19	Up	1.00	Up	win	4.89	4.8936	current best (control)	0.1697	21090.51	0.0100	0.5550
+13	1	d653d19	Up	1.00	Up	win	6.84	6.8368	variant 1	0.1276	24910.57	0.0100	0.5550
+13	2	d653d19	Up	1.00	Up	win	7.54	7.5434	variant 2	0.1170	28605.32	0.0100	0.5550
+13	3	d653d19	Up	1.00	Up	win	12.39	12.3892	variant 3	0.0747	22250.71	0.0100	0.5550
+14	0	6bd1861	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.0107	21734.97	0.0000	0.4150
+14	1	6bd1861	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0107	21230.68	0.0000	0.4150
+14	2	6bd1861	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.0107	21241.19	0.0000	0.4150
+14	3	6bd1861	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.0107	21864.66	0.0000	0.4150
+15	0	6bd1861	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.4071	25265.41	0.0100	0.4250
+15	1	6bd1861	Up	1.00	Up	win	0.55	0.5461	variant 1	0.6468	25926.10	0.0100	0.5850
+15	2	6bd1861	Up	1.00	Up	win	0.52	0.5230	variant 2	0.6566	28476.58	0.0200	0.5850
+15	3	6bd1861	Up	1.00	Up	win	0.52	0.5230	variant 3	0.6566	28459.69	0.0200	0.5850
+16	0	f281c61	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9441	9680.98	0.0100	0.4750
+16	1	f281c61	CRASH	0.00	Up	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+16	2	f281c61	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9814	10180.27	0.0100	0.4750
+16	3	f281c61	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9814	10180.27	0.0100	0.4750
+17	0	f281c61	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9907	4993.80	0.0700	0.4550
+17	1	f281c61	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7442	9587.44	0.0100	0.4550
+17	2	f281c61	Down	1.00	Down	win	0.46	0.4579	variant 2	0.6859	20663.23	0.0300	0.5450
+17	3	f281c61	Down	1.00	Down	win	0.55	0.5461	variant 3	0.6468	23047.10	0.0400	0.5450
+18	0	132e035	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0534	28093.64	0.0100	0.4650
+18	1	132e035	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.0214	25579.22	0.0100	0.4650
+18	2	132e035	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.0534	28066.15	0.0100	0.4650
+18	3	132e035	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.0534	28084.68	0.0100	0.4650
+19	0	132e035	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.4476	32833.75	0.0100	0.4950
+19	1	132e035	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.4476	32273.90	0.0100	0.4950
+19	2	132e035	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4476	31763.86	0.0100	0.4950
+19	3	132e035	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4879	27786.59	0.0100	0.4950
+20	0	132e035	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.1170	29335.11	0.0100	0.4750
+20	1	132e035	Up	1.00	Up	win	0.10	0.1032	variant 1	0.9065	20987.02	0.0100	0.5150
+20	2	132e035	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.1170	29626.82	0.0100	0.4750
+20	3	132e035	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.0534	26178.87	0.0100	0.4750
+21	0	3bce261	Down	1.00	Down	win	45.70	45.7045	current best (control)	0.0214	23403.38	0.0100	0.5100
+21	1	3bce261	Down	1.00	Down	win	45.70	45.7045	variant 1	0.0214	23403.38	0.0100	0.5100
+21	2	3bce261	Down	1.00	Down	win	22.38	22.3837	variant 2	0.0428	20149.77	0.0100	0.5100
+21	3	3bce261	Down	1.00	Down	win	45.70	45.7045	variant 3	0.0214	23400.60	0.0100	0.5100
+22	0	3bce261	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.5678	30459.77	0.0100	0.4450
+22	1	3bce261	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.5678	29931.06	0.0100	0.4450
+22	2	3bce261	Up	1.00	Up	win	1.09	1.0926	variant 2	0.4779	29595.76	0.0100	0.5450
+22	3	3bce261	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.5678	30030.88	0.0100	0.4450
+23	0	4f43fe5	Up	1.00	Up	win	4.89	4.8936	current best (control)	0.1697	28733.18	0.0100	0.5150
+23	1	4f43fe5	Up	1.00	Up	win	4.89	4.8936	variant 1	0.1697	28654.88	0.0100	0.5150
+23	2	4f43fe5	Up	1.00	Up	win	2.80	2.7951	variant 2	0.2635	25146.95	0.0100	0.5150
+23	3	4f43fe5	Up	1.00	Up	win	4.89	4.8936	variant 3	0.1697	28738.14	0.0100	0.5150
+24	0	4f43fe5	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.2945	27184.30	0.0100	0.4600
+24	1	4f43fe5	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.3048	27221.72	0.0200	0.4600
+24	2	4f43fe5	Up	1.00	Up	win	0.28	0.2775	variant 2	0.7828	23959.62	0.0100	0.5500
+24	3	4f43fe5	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.3048	27221.72	0.0200	0.4600
+25	0	62ef026	Down	1.00	Down	win	0.23	0.2323	current best (control)	0.8115	15760.32	0.0100	0.5250
+25	1	62ef026	Down	1.00	Down	win	0.23	0.2323	variant 1	0.8115	16180.73	0.0600	0.5250
+25	2	62ef026	Down	1.00	Down	win	0.52	0.5230	variant 2	0.6566	24163.33	0.0100	0.5250
+25	3	62ef026	Down	1.00	Down	win	0.76	0.7611	variant 3	0.5678	23397.23	0.0300	0.5250
+26	0	f5c7aba	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.7731	22899.37	0.0100	0.4950
+26	1	f5c7aba	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.6173	19815.20	0.0100	0.4950
+26	2	f5c7aba	Down	1.00	Down	win	2.80	2.7951	variant 2	0.2635	27519.65	0.0100	0.5050
+26	3	f5c7aba	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7442	19345.77	0.0500	0.4950
+27	0	ade5042	Up	1.00	Up	win	22.38	22.3837	current best (control)	0.0428	19791.40	0.0100	0.5350
+27	1	ade5042	Up	1.00	Up	win	45.70	45.7045	variant 1	0.0214	18959.36	0.0100	0.5350
+27	2	ade5042	Up	1.00	Up	win	22.38	22.3837	variant 2	0.0428	19830.13	0.0100	0.5350
+27	3	ade5042	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9721	6332.99	0.0100	0.4650
+28	0	334b6d5	Up	1.00	Up	win	0.76	0.7611	current best (control)	0.5678	25825.84	0.0100	0.5650
+28	1	334b6d5	Up	1.00	Up	win	0.76	0.7611	from typing import Callable	0.5678	25843.76	0.0100	0.5650
+28	2	334b6d5	Up	1.00	Up	win	0.79	0.7925	from typing import Callable	0.5579	25836.73	0.0100	0.5650
+28	3	334b6d5	Down	1.00	Up	loss	-1.00	-1.0000	from typing import Callable	0.4779	23858.78	0.0100	0.4350
+29	0	63a7e9a	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0534	23463.81	0.0100	0.4650
+29	1	63a7e9a	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.0534	23444.75	0.0100	0.4650
+29	2	63a7e9a	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.0428	24880.37	0.0100	0.4650
+29	3	63a7e9a	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.0534	23395.05	0.0100	0.4650
+30	0	63a7e9a	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6271	19080.51	0.0100	0.3850
+30	1	63a7e9a	Up	1.00	Up	win	1.40	1.3965	variant 1	0.4173	19933.38	0.0100	0.6150
+30	2	63a7e9a	Up	1.00	Up	win	1.40	1.3965	variant 2	0.4173	20097.62	0.0100	0.6150
+30	3	63a7e9a	Up	1.00	Up	win	1.52	1.5191	variant 3	0.3970	20300.03	0.0100	0.6150
+31	0	301de61	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.8781	16972.09	0.0100	0.4950
+31	1	301de61	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9065	18494.98	0.0100	0.4950
+31	2	301de61	Up	1.00	Up	win	7.54	7.5434	variant 2	0.1170	24474.44	0.0100	0.5050
+31	3	301de61	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8876	16788.68	0.0100	0.4950
+32	0	73787a8	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.1592	24597.16	0.0100	0.4950
+32	1	73787a8	Down	1.00	Down	win	0.15	0.1512	variant 1	0.8687	20864.00	0.0100	0.5050
+32	2	73787a8	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.1592	23477.03	0.0100	0.4950
+32	3	73787a8	Down	1.00	Down	win	0.15	0.1512	variant 3	0.8687	20894.19	0.0100	0.5050
+33	0	08753db	Up	1.00	Up	win	45.70	45.7045	current best (control)	0.0214	21193.15	0.0100	0.5750
+33	1	08753db	Up	1.00	Up	win	45.70	45.7045	variant 1	0.0214	21193.05	0.0100	0.5750
+33	2	08753db	Up	1.00	Up	win	30.16	30.1573	variant 2	0.0321	18738.31	0.0100	0.5750
+33	3	08753db	Up	1.00	Up	win	45.70	45.7045	variant 3	0.0214	21201.41	0.0100	0.5750
+34	0	08753db	Down	1.00	Down	win	1.18	1.1846	current best (control)	0.4577	27800.39	0.0600	0.5650
+34	1	08753db	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7635	24043.96	0.0100	0.4350
+34	2	08753db	Down	1.00	Down	win	0.76	0.7611	variant 2	0.5678	27749.51	0.0100	0.5650
+34	3	08753db	Down	1.00	Down	win	1.29	1.2855	variant 3	0.4375	28252.97	0.0300	0.5650
+35	0	4531538	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7924	20808.11	0.0100	0.4950
+35	1	4531538	Up	1.00	Up	win	4.55	4.5506	variant 1	0.1802	20724.78	0.0100	0.5050
+35	2	4531538	Up	1.00	Up	win	3.12	3.1194	variant 2	0.2428	23963.87	0.0100	0.5050
+35	3	4531538	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8497	14048.04	0.0100	0.4950
+36	0	593e25b	Up	1.00	Up	win	4.55	4.5506	current best (control)	0.1802	22890.85	0.0100	0.5050
+36	1	593e25b	Down	1.00	Up	loss	-1.00	-1.0000	from typing import Callable	0.8402	22107.40	0.0100	0.4950
+36	2	593e25b	Down	1.00	Up	loss	-1.00	-1.0000	from typing import Callable	0.8115	21759.23	0.0100	0.4950
+36	3	593e25b	Down	1.00	Up	loss	-1.00	-1.0000	from typing import Callable	0.8306	22740.16	0.0100	0.4950
+37	0	593e25b	Down	1.00	Down	win	5.28	5.2822	current best (control)	0.1592	20317.45	0.0100	0.5750
+37	1	593e25b	Down	1.00	Down	win	5.28	5.2822	variant 1	0.1592	20317.45	0.0100	0.5750
+37	2	593e25b	Down	1.00	Down	win	3.51	3.5056	variant 2	0.2219	23259.79	0.0100	0.5750
+37	3	593e25b	Down	1.00	Down	win	5.28	5.2822	variant 3	0.1592	20138.47	0.0100	0.5750
+38	0	593e25b	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9907	5723.54	0.0100	0.3550
+38	1	593e25b	Up	1.00	Up	win	9.43	9.4279	variant 1	0.0959	24638.37	0.0100	0.6450
+38	2	593e25b	Up	1.00	Up	win	45.70	45.7045	variant 2	0.0214	21336.84	0.0100	0.6450
+38	3	593e25b	Up	1.00	Up	win	9.43	9.4279	variant 3	0.0959	24639.81	0.0100	0.6450
+39	0	be62421	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.4577	25167.50	0.0100	0.4850
+39	1	be62421	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.4577	25503.20	0.0100	0.4850
+39	2	be62421	Down	1.00	Down	win	0.57	0.5699	variant 2	0.6370	26834.30	0.0100	0.4950
+39	3	be62421	Down	1.00	Down	win	0.57	0.5699	variant 3	0.6370	26809.66	0.0100	0.4950
+40	0	a7fa3ab	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.3151	23906.30	0.0100	0.4150
+40	1	a7fa3ab	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.3562	23001.41	0.0100	0.4150
+40	2	a7fa3ab	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.3151	23895.25	0.0100	0.4150
+40	3	a7fa3ab	Up	1.00	Up	win	0.38	0.3796	variant 3	0.7248	24935.01	0.0100	0.5850
+41	0	9c6dbe1	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.4879	24968.04	0.0100	0.3450
+41	1	9c6dbe1	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.4879	25007.29	0.0100	0.3450
+41	2	9c6dbe1	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4879	24493.87	0.0100	0.3450
+41	3	9c6dbe1	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.5380	21240.06	0.0100	0.3450
+42	0	9c6dbe1	Down	1.00	Down	win	0.57	0.5699	current best (control)	0.6370	23809.59	0.0100	0.6250
+42	1	9c6dbe1	Down	1.00	Down	win	0.57	0.5699	variant 1	0.6370	23809.59	0.0100	0.6250
+42	2	9c6dbe1	Down	1.00	Down	win	0.18	0.1769	variant 2	0.8497	18111.03	0.0100	0.6250
+42	3	9c6dbe1	Down	1.00	Down	win	0.57	0.5699	variant 3	0.6370	23806.09	0.0100	0.6250
+43	0	9c6dbe1	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6566	29613.64	0.0100	0.2150
+43	1	9c6dbe1	Up	1.00	Up	win	1.59	1.5854	variant 1	0.3868	26365.38	0.0100	0.7850
+43	2	9c6dbe1	Up	1.00	Up	win	1.59	1.5854	variant 2	0.3868	26356.94	0.0100	0.7850
+43	3	9c6dbe1	Up	1.00	Up	win	1.66	1.6554	variant 3	0.3766	25766.89	0.0100	0.7850
+44	0	3d25359	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9907	9302.35	0.0100	0.4450
+44	1	3d25359	Down	1.00	Down	win	45.70	45.7045	variant 1	0.0214	24243.33	0.0100	0.5350
+44	2	3d25359	Down	1.00	Down	win	17.72	17.7196	variant 2	0.0534	25460.58	0.0100	0.5350
+44	3	3d25359	Down	1.00	Down	win	17.72	17.7196	variant 3	0.0534	25949.52	0.0100	0.5350
+45	0	7aa1bd7	Down	1.00	Down	win	30.16	30.1573	current best (control)	0.0321	17665.42	0.0100	0.5850
+45	1	7aa1bd7	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.9814	10318.44	0.0100	0.4150
+45	2	7aa1bd7	Down	1.00	Down	win	3.30	3.3038	variant 2	0.2324	20190.10	0.0100	0.5850
+45	3	7aa1bd7	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.8019	18437.76	0.0100	0.4150
+46	0	7aa1bd7	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0641	23896.84	0.0100	0.4950
+46	1	7aa1bd7	Down	1.00	Down	win	0.05	0.0489	variant 1	0.9534	15226.56	0.0100	0.5050
+46	2	7aa1bd7	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.0641	25994.87	0.0100	0.4950
+46	3	7aa1bd7	Down	1.00	Down	win	0.05	0.0489	variant 3	0.9534	14743.82	0.0100	0.5050
+47	0	991490d	Up	1.00	Up	win	0.15	0.1512	current best (control)	0.8687	18055.89	0.0100	0.6650
+47	1	991490d	Up	1.00	Up	win	0.14	0.1388	variant 1	0.8781	17599.99	0.0100	0.6650
+47	2	991490d	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.1276	24209.93	0.0100	0.4650
+47	3	991490d	Up	1.00	Up	win	0.11	0.1148	variant 3	0.8970	15618.25	0.0100	0.6650
+48	0	991490d	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.3254	19646.77	0.0100	0.4050
+48	1	991490d	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.3254	19670.83	0.0100	0.4050
+48	2	991490d	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4071	24244.76	0.0100	0.4050
+48	3	991490d	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4071	23387.67	0.0100	0.4050
+49	0	991490d	Up	1.00	Down	loss	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.4650
+49	1	991490d	Down	1.00	Down	win	92.35	92.3463	variant 1	0.0107	18175.61	0.0000	0.5350
+49	2	991490d	Down	1.00	Down	win	22.38	22.3837	variant 2	0.0428	21021.78	0.0100	0.5350
+49	3	991490d	Down	1.00	Down	win	22.38	22.3837	variant 3	0.0428	21017.14	0.0100	0.5350
+50	0	03fb351	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7539	21853.23	0.0100	0.4750
+50	1	03fb351	Up	1.00	Up	win	3.12	3.1194	variant 1	0.2428	24680.59	0.0100	0.4850
+50	2	03fb351	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7442	22021.93	0.0100	0.4750
+50	3	03fb351	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.8019	16767.25	0.0100	0.4750
+51	0	6dcf512	Up	1.00	Up	win	17.72	17.7196	current best (control)	0.0534	20190.75	0.0100	0.4850
+51	1	6dcf512	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9253	14647.91	0.0100	0.4550
+51	2	6dcf512	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7731	23182.34	0.0100	0.4550
+51	3	6dcf512	Up	1.00	Up	win	2.80	2.7951	variant 3	0.2635	24356.38	0.0100	0.4850
+52	0	6dcf512	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.2739	23125.34	0.0100	0.4650
+52	1	6dcf512	Up	1.00	Up	win	0.31	0.3098	variant 1	0.7635	21428.73	0.0100	0.5350
+52	2	6dcf512	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.4980	28291.32	0.0100	0.4650
+52	3	6dcf512	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.2842	22337.15	0.0100	0.4650
+53	0	d0e3736	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.0641	21821.59	0.0100	0.3850
+53	1	d0e3736	Down	1.00	Down	win	0.05	0.0489	from typing import Callable	0.9534	13915.22	0.0100	0.6150
+53	2	d0e3736	Up	1.00	Down	loss	-1.00	-1.0000	from typing import Callable	0.0641	21933.09	0.0100	0.3850
+53	3	d0e3736	Down	1.00	Down	win	0.05	0.0489	from typing import Callable	0.9534	12118.66	0.0100	0.6150
+54	0	99b14de	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.9907	3299.78	0.0100	0.4850
+54	1	99b14de	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.9814	3520.59	0.0100	0.4850
+54	2	99b14de	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.9721	9038.61	0.0100	0.4850
+54	3	99b14de	Up	1.00	Up	win	22.38	22.3837	variant 3	0.0428	24670.53	0.0100	0.5150
+55	0	6e2834e	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.9347	17568.58	0.0100	0.4250
+55	1	6e2834e	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.8781	17320.43	0.0100	0.4250
+55	2	6e2834e	Down	1.00	Down	win	5.28	5.2822	variant 2	0.1592	22284.69	0.0100	0.5750
+55	3	6e2834e	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.9347	17562.68	0.0100	0.4250
+56	0	0d8b7a5	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.8115	21968.58	0.0100	0.4650
+56	1	0d8b7a5	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.7828	25959.43	0.0100	0.4650
+56	2	0d8b7a5	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.7828	26004.77	0.0100	0.4650
+56	3	0d8b7a5	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.7828	26013.20	0.0100	0.4650
+57	0	0d8b7a5	Up	1.00	Up	win	0.62	0.6200	current best (control)	0.6173	29953.42	0.0100	0.5850
+57	1	0d8b7a5	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.3459	33997.48	0.0100	0.4350
+57	2	0d8b7a5	Up	1.00	Up	win	0.65	0.6463	variant 2	0.6074	30791.67	0.0100	0.5850
+57	3	0d8b7a5	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.4274	31106.11	0.0100	0.4350
+58	0	c7d2230	Down	1.00	Down	win	45.70	45.7045	current best (control)	0.0214	18761.81	0.0100	0.5050
+58	1	c7d2230	CRASH	0.00	Down	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+58	2	c7d2230	Up	1.00	Down	loss	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.4950
+58	3	c7d2230	Down	1.00	Down	win	45.70	45.7045	variant 3	0.0214	19314.04	0.0100	0.5050
+59	0	c7d2230	Down	1.00	Down	win	17.72	17.7196	current best (control)	0.0534	23864.51	0.0100	0.5250
+59	1	c7d2230	Down	1.00	Down	win	3.30	3.3038	variant 1	0.2324	25560.41	0.0100	0.5250
+59	2	c7d2230	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.8019	25704.42	0.0100	0.4750
+59	3	c7d2230	Down	1.00	Down	win	10.72	10.7234	variant 3	0.0853	23517.49	0.0300	0.5250
+60	0	c7d2230	Up	1.00	Down	loss	-1.00	-1.0000	current best (control)	0.5380	22320.17	0.0100	0.3550
+60	1	c7d2230	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.3562	26501.18	0.0100	0.3550
+60	2	c7d2230	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.3151	24752.60	0.0100	0.3550
+60	3	c7d2230	Down	1.00	Down	win	0.46	0.4579	variant 3	0.6859	25360.99	0.0100	0.6450
+61	0	97228a3	Up	1.00	Up	win	17.72	17.7196	current best (control)	0.0534	24181.78	0.0100	0.5750
+61	1	97228a3	Up	1.00	Up	win	14.61	14.6102	variant 1	0.0641	24744.26	0.0100	0.5750
+61	2	97228a3	Up	1.00	Up	win	14.61	14.6102	variant 2	0.0641	24744.66	0.0100	0.5750
+61	3	97228a3	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.9721	15041.00	0.0100	0.4250
+62	0	97228a3	Down	1.00	Down	win	0.09	0.0918	current best (control)	0.9159	20383.06	0.0100	0.5150
+62	1	97228a3	CRASH	0.00	Down	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+62	2	97228a3	Up	1.00	Down	loss	-1.00	-1.0000	variant 2	0.1065	26214.14	0.0100	0.4650
+62	3	97228a3	Up	1.00	Down	loss	-1.00	-1.0000	variant 3	0.1592	29305.44	0.0100	0.4650
+63	0	97228a3	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.6664	19644.02	0.0100	0.4950
+63	1	97228a3	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.6664	19639.07	0.0100	0.4950
+63	2	97228a3	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7731	21917.40	0.0100	0.4950
+63	3	97228a3	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.7054	24556.93	0.0100	0.4950
+64	0	97228a3	Down	1.00	Down	win	0.62	0.6200	current best (control)	0.6173	30490.85	0.0100	0.5450
+64	1	97228a3	Down	1.00	Down	win	0.48	0.4789	variant 1	0.6762	25197.23	0.0100	0.5450
+64	2	97228a3	CRASH	0.00	Down	crash	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.0000
+64	3	97228a3	Down	1.00	Down	win	0.62	0.6200	variant 3	0.6173	30373.15	0.0100	0.5450
+65	0	97228a3	Down	1.00	Down	win	0.16	0.1639	current best (control)	0.8592	18958.93	0.0100	0.5950
+65	1	97228a3	Up	1.00	Down	loss	-1.00	-1.0000	variant 1	0.1697	23709.08	0.0100	0.4050
+65	2	97228a3	Down	1.00	Down	win	0.16	0.1639	variant 2	0.8592	18673.20	0.0100	0.5950
+65	3	97228a3	Down	1.00	Down	win	0.16	0.1639	variant 3	0.8592	18204.05	0.0100	0.5950
+66	0	97228a3	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.7828	21403.39	0.0100	0.4550
+66	1	97228a3	Up	1.00	Up	win	2.95	2.9505	variant 1	0.2531	22961.10	0.0100	0.5450
+66	2	97228a3	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.7828	21403.39	0.0100	0.4550
+66	3	97228a3	Up	1.00	Up	win	12.39	12.3892	variant 3	0.0747	21015.55	0.0100	0.5450
+1	0	c22bc6f	Up	1.00	Up	win	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.9950
+1	1	c22bc6f	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0214	23812.84	0.0100	0.0050
+1	2	c22bc6f	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.0214	24337.20	0.0100	0.0050
+1	3	c22bc6f	Up	1.00	Up	win	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.9950
+1	0	c22bc6f	CRASH	0.00	Up	crash	0.00	0.0000	current best (control)	0.0000	0.00	0.0000	0.0000
+1	1	c22bc6f	CRASH	0.00	Up	crash	0.00	0.0000	variant 1	0.0000	0.00	0.0000	0.0000
+1	2	c22bc6f	CRASH	0.00	Up	crash	0.00	0.0000	variant 2	0.0000	0.00	0.0000	0.0000
+1	3	c22bc6f	CRASH	0.00	Up	crash	0.00	0.0000	variant 3	0.0000	0.00	0.0000	0.0000
+2	0	c22bc6f	Up	1.00	Up	win	0.20	0.2039	current best (control)	0.8306	17604.26	0.0100	0.9950
+2	1	c22bc6f	Up	1.00	Up	win	0.20	0.2039	variant 1	0.8306	17575.71	0.0100	0.9950
+2	2	c22bc6f	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.2011	20508.12	0.0100	0.0050
+2	3	c22bc6f	Up	1.00	Up	win	0.40	0.3984	variant 3	0.7151	18929.55	0.0100	0.9950
+2	0	c22bc6f	Up	1.00	Up	win	0.40	0.3984	current best (control)	0.7151	19430.66	0.0100	0.9950
+2	1	c22bc6f	Up	1.00	Up	win	0.48	0.4789	variant 1	0.6762	16448.89	0.0100	0.9950
+2	2	c22bc6f	Up	1.00	Up	win	0.38	0.3796	variant 2	0.7248	19078.69	0.0100	0.9950
+2	3	c22bc6f	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.6074	22488.47	0.0100	0.0050
+3	0	4aab344	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.1170	23807.32	0.0100	0.0050
+3	1	4aab344	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.1276	23665.13	0.0100	0.0050
+3	2	4aab344	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.1276	24817.14	0.0100	0.0050
+3	3	4aab344	Down	1.00	Up	loss	-1.00	-1.0000	variant 3	0.1276	24760.74	0.0100	0.0050
+3	0	4aab344	Down	1.00	Up	loss	-1.00	-1.0000	current best (control)	0.1381	20554.39	0.0100	0.0050
+3	1	4aab344	Down	1.00	Up	loss	-1.00	-1.0000	variant 1	0.0853	20413.19	0.0100	0.0050
+3	2	4aab344	Down	1.00	Up	loss	-1.00	-1.0000	variant 2	0.1381	20396.89	0.0100	0.0050
+3	3	4aab344	Up	1.00	Up	win	0.11	0.1148	variant 3	0.8970	16803.24	0.0100	0.9950

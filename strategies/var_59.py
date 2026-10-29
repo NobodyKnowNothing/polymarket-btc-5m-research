@@ -1,0 +1,125 @@
+# Var 59 | BT: -0.159 | Live PnL: $-0.59 | Trades: 383
+# Desc: Implements "Consensus-Validated Lag Capture (CVLC)," which requires a three-way confluence of signals—cross-exchange price convergence, high cross-exchange consensus (low spread), and Polymarket cost
+# Stats: {"live_returns": [-1.0, -0.28571000695228577, 0.5410497784614563, 0.6422837972640991, -0.2394922822713852, -0.8436373472213745, 5.282196, -1.0, -0.9488919377326965, -0.6760662198066711, 0.540703296661377, -1.0, -0.9239199757575989, -1.0, 2.361347198486328, -0.48099541664123535, -1.0, 0.47365039587020874, 17.719581, -1.0, 3.505625, -1.0, 3.505625, -1.0, -1.0, -1.0, 2.651597, -0.9524202942848206, 0.08225232362747192, -0.38417690992355347, 5.282196, 0.027743428945541382, 3.9731249999999996, -1.0, -0.9017520546913147, -1.0, 0.02544081211090088, 1.1094741821289062, -1.0, -1.0, -1.0, 2.651597, -1.0, -1.0, -0.28704866766929626, 1.5291577577590942, -0.6400384306907654, -0.6205921173095703, -1.0, -0.8836637139320374, -0.9987516403198242, 1.4767351150512695, 0.7247833013534546, 0.6633254885673523, -1.0, 3.727685, -0.6043110489845276, 1.1267915964126587, -0.8117295503616333, 1.6401779651641846, -1.0, -0.9375032782554626, -0.5957914590835571, -1.0, -0.5063674449920654, -1.0, -0.9044469594955444, 0.5123934149742126, -0.31916046142578125, -0.7090024948120117, -0.9048996567726135, -1.0, 1.5191249999999998, 2.6339306831359863, -0.26136019825935364, 0.39635854959487915, -1.0, -0.2328384518623352, 0.0407680869102478, -0.7314680814743042, -0.8480027318000793, 9.427877, -1.0, -1.0, -0.8147391080856323, 0.09897160530090332, -0.388690710067749, 3.505625, 0.5901709794998169, -0.7192555069923401, 0.14240217208862305, -0.2581843435764313, 0.030391812324523926, -1.0, -0.41408059000968933, -1.0, 3.303756, -1.0, -0.363826185464859, 0.03039795160293579, -1.0, 2.950496, 3.1194439999999997, -0.7602584362030029, -0.5596246719360352, 0.08284378051757812, -0.37204065918922424, -1.0, -1.0, -0.580001711845398, -0.42752566933631897, 0.035525232553482056, 0.04458200931549072, -0.9517244100570679, 0.9998773336410522, 1.1588623523712158, -0.2700093388557434, 0.05317246913909912, -0.7082077860832214, 0.015439599752426147, -1.0, 0.5265612602233887, 0.016534000635147095, -1.0, 0.6307063698768616, 3.9731249999999996, 0.9678789377212524, -1.0, -0.8816379308700562, 0.8110237717628479, 1.4136708974838257, 1.7180523872375488, -0.36950573325157166, -0.25852885842323303, -0.6001583933830261, 2.073133, 1.9490768909454346, 0.06068989634513855, 3.727685, 0.2543136775493622, -1.0, -0.6993532180786133, 0.7290172576904297, 3.1194439999999997, -0.800529956817627, -1.0, -0.5837617516517639, -0.8675196766853333, -1.0, -1.0, -0.34969404339790344, -0.28462404012680054, -0.38760116696357727, -1.0, 0.7222610712051392, -1.0, -0.35719162225723267, 2.39541, -1.0, -1.0, 0.9807853102684021, -1.0, -1.0, -0.7420433759689331, 2.39541, -0.9927769899368286, -0.37612301111221313, 1.5589543581008911, -0.952419102191925, -0.3023313581943512, -1.0, -0.19047778844833374, 2.173394, -1.0, -0.17805476486682892, -0.6659560799598694, -1.0, -0.4532525837421417, -0.22544100880622864, -0.5285906791687012, 0.5356312990188599, -0.4593508541584015, 0.031779319047927856, -0.5435096621513367, -0.5694037079811096, 0.037465035915374756, -1.0, -1.0, 2.073133, -0.4102015495300293, 2.3348755836486816, 0.539821982383728, -0.9155834317207336, 0.03854706883430481, 3.303756, -0.687393844127655, -0.7756062150001526, -1.0, 0.031745344400405884, -1.0, 1.8787130117416382, 3.1064209938049316, -1.0, -1.0, -1.0, -0.4176342785358429, -1.0, -0.8431181907653809, -0.36518704891204834, -1.0, 0.020977169275283813, -1.0, -0.41730183362960815, -0.49531325697898865, -0.29867374897003174, -0.27299579977989197, -1.0, -1.0, -0.43664607405662537, 0.06698423624038696, 0.38781070709228516, -1.0, 0.08207070827484131, -0.9286114573478699, 0.023047566413879395, -0.9296298027038574, 0.035835832357406616, -0.9533291459083557, -0.3836994469165802, 2.950496, -0.2560441195964813, -0.5356327891349792, -1.0, -0.3637143075466156, -0.5110936164855957, -0.365767240524292, 0.025901049375534058, -0.35367551445961, -0.7650063037872314, -0.5186928510665894, -0.42053866386413574, -0.8263660073280334, -0.7900226712226868, -0.9563005566596985, 0.0569024384021759, 2.280573, -1.0, -0.27879515290260315, 0.03656870126724243, 1.5761462450027466, 0.12441462278366089, -0.7068129777908325, 0.8795088529586792, 0.3627084791660309, -0.8394279479980469, -0.47984930872917175, 0.7541855573654175, -1.0, 0.008554458618164062, 0.011690407991409302, 2.280573, -0.6677495837211609, -0.9052263498306274, -0.20402659475803375, -0.41205844283103943, 1.9791409999999998, 0.03142213821411133, -0.48142924904823303, -0.382017582654953, -1.0, -1.0, -0.8889270424842834, 1.565317988395691, 0.6156062483787537, -1.0, -0.42758432030677795, -0.698329746723175, 0.4962209463119507, 0.5262901186943054, -0.3224891126155853, -0.2984156906604767, -1.0, 2.651597, -1.0, -1.0, 0.7494528293609619, -1.0, -0.5565582513809204, -0.8474464416503906, 0.29123398661613464, -0.7086502313613892, -0.6990911960601807, -0.476456880569458, -1.0, -0.7239686846733093, -1.0, -1.0, -0.7833584547042847, 0.3790704607963562, 0.6174769997596741, -1.0, -0.4495792090892792, -1.0, -1.0, -1.0, -1.0, -0.555680513381958, -1.0, -1.0, 0.920064389705658, -0.9471842646598816, 0.014955788850784302, -1.0, -0.722955584526062, 0.15118699999999996, 2.0579166412353516, 0.10851162672042847, -0.8992351293563843, 0.054807066917419434, -1.0, -1.0, -0.7209520936012268, -1.0, -0.3332711160182953, -1.0, 0.0585726797580719, -0.9858891367912292, -1.0, -1.0, -1.0, 1.0737977027893066, 0.015831023454666138, 4.550646, -0.25770798325538635, -0.37703952193260193, -0.5123978853225708, 0.4363136291503906, -1.0, 1.638071060180664, -0.5647328495979309, 0.3947795629501343, -0.40195539593696594, -0.41880497336387634, -1.0, -1.0, 0.041593581438064575, -1.0, -0.666164219379425, 0.053128212690353394, -0.21425218880176544, 1.4593214988708496, -0.25243011116981506, 0.019611552357673645, -1.0, -1.0, -0.3257257044315338, 0.05493864417076111, 0.04104092717170715, -1.0, 4.550646, 3.1194439999999997, -0.5505203604698181, -1.0, -1.0, -0.2672162652015686, -0.2600754201412201, -0.7313220500946045, 2.3514506816864014, 0.8162487745285034, -0.730739176273346, -1.0, 0.8766606450080872, -1.0, -0.3641664683818817, -1.0, -0.6643385887145996, -1.0, 1.9791409999999998, -0.30100566148757935, -1.0, -1.0, -1.0, -0.2585536241531372], "live_pnl": -0.5863364934921265, "live_wins": 133, "live_total": 383, "age": 623, "rounds_underwater": 2, "abstain_rounds": 0, "backtest_score": -0.1590901060322977, "backtest_acc": 0.5833616298811545, "backtest_n": 2272}
+
+import pandas as pd
+import numpy as np
+import math
+
+def engineer_features(df):
+    """
+    Transform raw flat features into model-ready features, focusing on 
+    the confluence of cross-exchange convergence and Polymarket cost lag.
+    """
+    df = df.copy()
+
+    # 1. Price and Cost Velocities
+    # We use pct_change for price to normalize across different BTC price levels
+    df['price_vel_pct'] = df.groupby('market_slug')['binance_price'].pct_change().fillna(0)
+    df['cost_up_vel'] = df.groupby('market_slug')['pm_cost_up'].diff().fillna(0)
+    df['cost_down_vel'] = df.groupby('market_slug')['pm_cost_down'].diff().fillna(0)
+
+    # 2. Cross-Exchange Convergence Velocity
+    # Negative value means the spread between exchanges is shrinking (convergence)
+    df['price_spread_vel'] = df.groupby('market_slug')['price_spread'].diff().fillna(0)
+
+    # 3. Lag Features: Does the Polymarket cost lag behind the exchange price move?
+    # For 'Up': Positive lag means price went up more than the cost did.
+    df['cost_lag_up'] = df['price_vel_pct'] - df['cost_up_vel']
+    # For 'Down': Positive lag means price went down more than the cost did.
+    df['cost_lag_down'] = (-df['price_vel_pct']) - df['cost_down_vel']
+
+    # 4. Momentum and Flow Alignment
+    df['obi_momentum_sync'] = df['mean_obi'] * df['mean_momentum']
+
+    # Drop metadata
+    cols_to_drop = ['market_slug', 'timestamp', 'actual_outcome']
+    X = df.drop(columns=[c for c in cols_to_drop if c in df.columns])
+
+    # Final cleanup
+    X = X.replace([np.inf, -np.inf], 0)
+    X = X.fillna(0)
+
+    return X
+
+def get_hyperparams():
+    """Return highly regularized XGBoost hyperparameters to prevent overfitting to noise."""
+    return {
+        'n_estimators': 1000,
+        'max_depth': 2,
+        'learning_rate': 0.01,
+        'subsample': 0.6,
+        'colsample_bytree': 0.6,
+        'reg_alpha': 15.0,
+        'reg_lambda': 20.0,
+    }
+
+def strategy_filter(prob_up, prob_down, cost_up, cost_down, features_row, seconds_remaining):
+    """
+    Decide whether to trade using "Consensus-Validated Lag Capture (CVLC)".
+    A trade is only valid if there is confluence between:
+    1. Convergence: The cross-exchange spread is narrowing.
+    2. Consensus: The cross-exchange spread is already tight.
+    3. Lag: The Polymarket cost is trailing the exchange price movement.
+    """
+    # 1. Calculate Expected Value (EV)
+    ev_up = prob_up - cost_up
+    ev_down = prob_down - cost_down
+
+    if ev_up > ev_down:
+        side = 'Up'
+        best_ev = ev_up
+        lag_val = features_row.get('cost_lag_up', 0.0)
+    else:
+        side = 'Down'
+        best_ev = ev_down
+        lag_val = features_row.get('cost_lag_down', 0.0)
+
+    # 2. Extract Confluence Features
+    spread_vel = features_row.get('price_spread_vel', 0.0)
+    price_spread = features_row.get('price_spread', 0.0)
+
+    # 3. Dynamic Hurdle Calculation
+    # Base hurdle is 3%
+    hurdle = 0.03
+
+    # Signal 1: Convergence (Is the market agreeing on a price?)
+    # If spread is shrinking (spread_vel < 0), lower the hurdle.
+    if spread_vel < 0:
+        hurdle *= 0.75
+    else:
+        # If spread is widening, significantly increase the hurdle to avoid volatility traps
+        hurdle *= 1.5
+
+    # Signal 2: Consensus (Is the agreement tight?)
+    # If the absolute spread is very low, lower the hurdle.
+    if price_spread < 0.001:
+        hurdle *= 0.75
+    elif price_spread > 0.005:
+        hurdle *= 1.5
+
+    # Signal 3: Lag (Is Polymarket actually behind?)
+    # If there is significant lag, lower the hurdle.
+    if lag_val > 0.0005:
+        hurdle *= 0.75
+
+    # 4. Execution Decision
+    if best_ev < hurdle:
+        return None, 0.0
+
+    # 5. Dynamic Sizing
+    # Scale by edge strength relative to the hurdle
+    edge_ratio = best_ev / hurdle
+    
+    # Scale by time remaining (reduce exposure as the window closes to avoid last-second whipsaws)
+    time_factor = max(0.2, seconds_remaining / 300.0)
+    
+    # Final bet fraction calculation
+    bet_fraction = edge_ratio * time_factor * 0.5 # 0.5 is a safety coefficient
+    bet_fraction = min(1.0, max(0.0, bet_fraction))
+
+    # Minimum bet threshold
+    if bet_fraction < 0.15:
+        return None, 0.0
+
+    return side, bet_fraction
